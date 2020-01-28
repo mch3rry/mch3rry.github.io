@@ -21,10 +21,10 @@ description: Full-spectrum holistic doula serving families in and around Vancouv
 # List of links in the navigation bar
 navbar-links:
   Meet Danielle: "aboutme"
-  About Doulas: ""
-  Services: ""
-  Resources:
-  Contact:
+  About Doulas: "doulas"
+  Services: "services"
+  Resources: "resources"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -53,7 +53,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/baby.png"
+# page-img: "/img/baby.png"
 
 # --- Footer options --- #
 
