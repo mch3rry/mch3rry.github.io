@@ -1,5 +1,10 @@
 ---
 layout: page
-title: Special Delivery!
-subtitle: Custom care packages to best fit your family
+title: 
 ---
+
+#Special
+
+##Delivery
+
+### Custom care packages to best serve your family
