@@ -1,11 +1,8 @@
 ---
 layout: page
-title: 
-use-site-title: true
 ---
 
-
-## Delivery
+maybe
 
 ### Custom care packages to best serve your family
 
