@@ -4,6 +4,7 @@ title: Holistic doula care for families
 bigimg:
   - 'img/tea.jpg': "Photo by Matthew Henry on Unsplash"
 use-site-title: true
+googlefonts: "Playfair Display", "Josefin Sans"
 ---
 
 <h1 class="text-center">Danielle's Projects</h1>
