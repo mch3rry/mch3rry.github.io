@@ -4,7 +4,6 @@ title:
 use-site-title: true
 ---
 
-# Special
 
 ## Delivery
 
