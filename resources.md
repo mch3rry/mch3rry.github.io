@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Resources
+title: Community Resources & Favourite Books
 ---
