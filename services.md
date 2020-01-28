@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 
+use-site-title: true
 ---
 
 # Special
