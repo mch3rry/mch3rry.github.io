@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi! I'm Danielle
 ---
 
 My name is Inigo Montoya. I have the following qualities:
@@ -11,6 +10,7 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Qualifications:
+- 270-hour, full-spectrum holistic doula training (Pacific Rim College, 2019)
+- Standard First Aid and CPR (St John’s Ambulance, 2020)
+- Extensive volunteer experience with children and families (CUDDLE Visits with Vancouver Coastal Health; Big Sisters; Kitsilano Neighbourhood House)
