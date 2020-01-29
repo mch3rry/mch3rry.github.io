@@ -2,7 +2,7 @@
 layout: page
 title: Holistic doula care for families
 bigimg:
-  - 'img/tea.jpg': "Photo by Matthew Henry on Unsplash"
+  - 'img/family.jpg': "Photo by ..."
 use-site-title: true
 ---
 
