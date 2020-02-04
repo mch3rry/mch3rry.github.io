@@ -10,9 +10,7 @@ title: Get in touch!
   Phone: <input type="text" name="Phone" placeholder="Phone"><br>
   Email: <input type="email" name="_replyto" placeholder="Email"><br>
   Estimated due date: <input type="text" name="EDD" placeholder="Estimated due date"><br>
-  Message: <br><textarea name="Message" placeholder="Tell me about you and your family!" cols="40"></textarea><br>
-  <input type=”hidden” name=”_next” value=”reddit.com”>
-  <input type=”hidden” name=”_subject” value=”Doula inquiry!”>
+  Message: <br><textarea name="Message" placeholder="Tell me about you and your family!" cols="40"></textarea><br><br>
   <input type="submit" value="Submit">
 
 </form>
