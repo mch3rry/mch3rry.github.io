@@ -2,7 +2,8 @@
 layout: page
 title: Get in touch!
 ---
-
+<body>
+  
 <form name="Kinship Doula Contact Form" action="https://formspree.io/mnqdvndq" method="POST">
   <input type="text" name="Name" placeholder="Name">
   <br>
@@ -18,3 +19,5 @@ title: Get in touch!
   <input type=”hidden” name=”_next” value=”reddit.com”>
   <input type=”hidden” name=”_subject” value=”Doula inquiry!”>
 </form>
+
+</body>
