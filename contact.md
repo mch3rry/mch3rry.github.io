@@ -20,7 +20,7 @@ form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
     margin-top: 0.25em;
     margin-bottom: 0.5em;
     padding: 0.75em;
-    font-family: monospace, sans-serif;
+    font-family: "Josefin Sans", sans-serif;
     font-weight: lighter;
     border-style: solid;
     border-color: #444;
@@ -33,8 +33,8 @@ form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
 form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
-    background-color: #2e83e6;
-    border-radius: 3px;
+    background-color: #FF7E79;
+    border-radius: 30px;
     padding: 0.5em;
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
