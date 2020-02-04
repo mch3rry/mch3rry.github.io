@@ -8,13 +8,19 @@ title: Get in touch!
   method="POST"
 >
   <label>
-    Your Name:
+    Name:
     <input type="text" name="name">
   </label>
+  <br>
   <label>
-    Your Email:
+    Email:
     <input type="email" name="_replyto">
   </label>
+    <label>
+    Phone:
+    <input type="text" name="phone">
+  </label>
+  <br>
   <label>
     Message:
     <textarea name="message"></textarea>
