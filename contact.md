@@ -34,7 +34,7 @@ form.wj-contact input[type="text"], form.wj-contact input[type="email"], form.wj
 
 form.wj-contact input[type="submit"] {
     outline: none;
-    color: #2B2D42;
+    color: #EDEEF9;
     background-color: #FF7E79;
     border-radius: 3px;
     padding: 0.5em;
