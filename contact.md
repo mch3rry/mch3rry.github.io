@@ -6,7 +6,7 @@ title: Get in touch!
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
-    <input type="text" name="_replyto" placeholder="Email">
+    <input type="email" name="_replyto" placeholder="Email">
     <input type="text" name="EDD" placeholder="Estimated Due Date">
     <textarea type="text" name="content" rows="10" placeholder="Tell me about you and your family!"></textarea>
     <input type="hidden" name="_next" value="<www.reddit.com> ">
@@ -16,7 +16,7 @@ title: Get in touch!
 </form>
 
 <style>
-form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
+form.wj-contact input[type="text"], form.wj-contact input[type="email"], form.wj-contact textarea[type="text"] {
     width: 100%;
     vertical-align: middle;
     margin-top: 0.25em;
@@ -36,7 +36,7 @@ form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
     background-color: #FF7E79;
-    border-radius: 300px;
+    border-radius: 3px;
     padding: 0.5em;
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
