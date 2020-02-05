@@ -15,7 +15,7 @@ danielle@kinshipdoula.ca
     <input type="text" name="Name" placeholder="Name">
     <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
     <input type="email" name="_replyto" placeholder="Email">
-    <input type="text" name="EDD" placeholder="Estimated Due Date">
+    <input type="text" name="EDD" placeholder="Estimated due date">
     <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
     <input type="hidden" name="redirect_to" value="<https://kinshipdoula.ca/thanks/>">
     <input type="hidden" name="_subject" value="New Doula Inquiry">
