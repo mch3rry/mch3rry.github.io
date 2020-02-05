@@ -33,3 +33,6 @@ Kinship offers a comprehensive doula care package including:
 - 1-2 prenatal visits
 - Continuous labour and birth support
 - 2 postpartum visits
+
+**Fee:** ~~$900~~ $450  
+*The first five families will benefit from a reduced rate!*
