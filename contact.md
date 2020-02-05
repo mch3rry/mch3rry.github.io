@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-###Danielle McEachern
+### Danielle McEachern
 Holistic, full-spectrum doula
 
 danielle@kinshipdoula.ca
