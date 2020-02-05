@@ -3,7 +3,7 @@ layout: page
 title: Get in touch!
 ---
 
-test: ready player one
+test: ready player two
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
@@ -11,7 +11,7 @@ test: ready player one
     <input type="email" name="_replyto" placeholder="Email">
     <input type="text" name="EDD" placeholder="Estimated Due Date">
     <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
-    <input type="hidden" name="_next" value="<https://kinshipdoula.ca/thanks/>">
+    <input type="hidden" name="redirect_to" value="<https://kinshipdoula.ca/thanks/>">
     <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
