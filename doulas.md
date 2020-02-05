@@ -17,12 +17,12 @@ title: ""
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    Continuous labour and birth support
+      <b>Continuous labour and birth support</b>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    Dedicated postpartum care
+      <b>Dedicated postpartum care</b>
     </div>
   </div>
 </div>
