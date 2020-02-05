@@ -3,9 +3,8 @@ layout: page
 title: Get in touch!
 ---
 
-test: ready player three
-
-<form class="wj-contact" action="https://getsimpleform.com/messages?form_api_token=a1ad9abef91d46feec5e261e91d7c4b8" method="POST">
+Contact Danielle to arrange a complimentary consultation.
+<form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
     <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
     <input type="email" name="_replyto" placeholder="Email">
