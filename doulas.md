@@ -30,14 +30,14 @@ title: ""
 <br>
 
 Kinship offers a comprehensive doula care package including:
-- Unlimited phone and text support
-- 1-2 prenatal visits
+- Two prenatal and two postpartum visits
+- On-call for your birth, starting at 37 weeks
 - Continuous labour and birth support
-- 2 postpartum visits
+- Unlimited phone and text support
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
 
-**Hourly postpartum care:** $25/hour *(min. 3 hours)*
+**Hourly postpartum care:** $25/hour (min. 3 hours)
 
 [Get in touch for a complimentary consultation!](https://kinshipdoula.ca/contact/)
