@@ -8,7 +8,7 @@ Holistic, full-spectrum doula
 
 danielle@kinshipdoula.ca
 
-*Get in touch to arrange a complimentary consultation!*
+#### Get in touch to arrange a complimentary consultation!
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
     <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
