@@ -3,7 +3,7 @@ layout: page
 title: Get in touch!
 ---
 
-Contact Danielle to arrange a complimentary consultation.
+*Contact Danielle to arrange a complimentary consultation.*
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
     <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
