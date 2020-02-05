@@ -4,13 +4,14 @@ title: Contact
 ---
 
 __Danielle McEachern__
-
 Holistic, full-spectrum doula serving families in and around Vancouver BC
 
 <br>
-(778) 879 - 0269
 
+(778) 879 - 0269
 danielle@kinshipdoula.ca
+
+<br>
 
 #### Get in touch to arrange a complimentary consultation!
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
