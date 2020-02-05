@@ -6,7 +6,7 @@ title: ""
 ### The benefits of a doula
 <br><br>
 ### Doula care for every stage
-
+<br>
 <div class="spacer"></div>
 
 <div class="row text-center">
