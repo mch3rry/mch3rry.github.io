@@ -38,6 +38,6 @@ Kinship offers a comprehensive doula care package including:
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
 
-**Hourly postpartum care (min. 3 hours):** $25/hour
+**Hourly postpartum care:** $25/hour *(min. 3 hours)*
 
- <a href="https://www.w3schools.com" class="w3-button w3-black">Link Button</a>
+[Get in touch for a complimentary consultation!](kinshipdoula.ca/contact)
