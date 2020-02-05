@@ -8,7 +8,7 @@ title: Get in touch!
     <input type="text" name="Name" placeholder="Name">
     <input type="email" name="_replyto" placeholder="Email">
     <input type="text" name="EDD" placeholder="Estimated Due Date">
-    <textarea type="text" name="content" rows="10" placeholder="Tell me about you and your family!"></textarea>
+    <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
     <input type="hidden" name="_next" value="<www.reddit.com> ">
     <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
