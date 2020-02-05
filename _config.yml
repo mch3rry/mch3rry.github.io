@@ -21,8 +21,7 @@ description: Full-spectrum holistic doula serving families in and around Vancouv
 # List of links in the navigation bar
 navbar-links:
   Meet Danielle: "aboutme"
-  About Doula Care: "doulas"
-  Services: "services"
+  Doula Care: "doulas"
   Resources: "resources"
   Contact: "contact"
 
@@ -69,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-#  email: "danielle.mceachern@gmail.com"
+email: "danielle@kinshipdoula.ca"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
