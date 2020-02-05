@@ -36,3 +36,5 @@ Kinship offers a comprehensive doula care package including:
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
+
+**Hourly postpartum care (min. 3 hours):** $25/hour
