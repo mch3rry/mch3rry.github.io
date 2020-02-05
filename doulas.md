@@ -40,4 +40,4 @@ Kinship offers a comprehensive doula care package including:
 
 **Hourly postpartum care:** $25/hour *(min. 3 hours)*
 
-[Get in touch for a complimentary consultation!](kinshipdoula.ca/contact)
+[Get in touch for a complimentary consultation!](https://kinshipdoula.ca/contact/)
