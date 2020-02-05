@@ -6,11 +6,11 @@ title: Get in touch!
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
-    <input type="email" name="_replyto" placeholder="Email Address">
+    <input type="text" name="_replyto" placeholder="Email">
     <input type="text" name="EDD" placeholder="Estimated Due Date">
     <textarea type="text" name="content" rows="10" placeholder="Tell me about you and your family!"></textarea>
     <input type="hidden" name="_next" value="<www.reddit.com> ">
-    <input type="hidden" name="_subject" value="New Doula Inquiry>
+    <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
 </form>
@@ -36,7 +36,7 @@ form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
     background-color: #FF7E79;
-    border-radius: 30px;
+    border-radius: 300px;
     padding: 0.5em;
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
