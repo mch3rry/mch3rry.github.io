@@ -37,8 +37,8 @@ form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
     background-color: #FF7E79;
-    border-radius: 3px;
-    padding: 10em;
+    border-radius: 30px;
+    padding: 1em;
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
     height: auto;
