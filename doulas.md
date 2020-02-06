@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Doula Care
+title: ""
 ---
 
 ### The benefits of a doula
 <br><br>
 ### Support in every phase of new parenthood
-<br>
-<div class="spacer"></div>
 
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
