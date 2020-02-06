@@ -6,10 +6,10 @@ title: Resources
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <h3>Vancouver BC</h3>
-            Neighbourhood Houses
-            Westside Family Place
-            *Hospitals*
+      <h3>Vancouver BC</h3><br>
+      Neighbourhood Houses<br>
+      Westside Family Place<br>
+      Hospitals
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
