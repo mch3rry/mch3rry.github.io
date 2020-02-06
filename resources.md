@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Resources
-bigimg:
-  - 'img/playground2.jpg': "Photo by Abby Chung on Pexels"
 ---
 
 <div class="row text-center">
@@ -13,12 +11,12 @@ bigimg:
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <b>Online</b>
+      <h3>Online</h3>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <b>Books</b>
+      <h3>Books</h3>
     </div>
   </div>
 </div>
