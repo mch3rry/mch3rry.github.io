@@ -9,9 +9,10 @@ title: Resources
       <h3>Vancouver BC</h3>
         <p style="text-align:left;">
           <ul>
-           <li>Neighbourhood Houses</li>
-           <li>Westside Family Place</li>
-           <li>Hospitals</li>
+            <li>Neighbourhood Houses</li>
+            <li>Westside Family Place</li>
+            <li>Hospitals</li>
+            <li>Love</li>
           </ul>  
         </p>
     </div>
@@ -34,6 +35,7 @@ title: Resources
          <li>The First Forty Days</li>
          <li>The Birth Partner</li>
        </ul>
+      <br><i>Ask about our lending library!</i>
     </div>
   </div>
 </div>
