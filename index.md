@@ -4,9 +4,7 @@ title: Holistic doula care for families
 bigimg:
   - 'img/houses.jpg': "Photo by -name- on Unsplash"
   - 'img/fabian-mardi-dS2BaLg4grM-unsplash.jpg': "Photo by -name- on Unsplash"
-  - 'img/dev-benjamin-MIoC_fhA7LU-unsplash.jpg': "Photo by -name- on Unsplash"
-  - 'img/jon-tyson--fQqwGNgIpw-unsplash.jpg': "Photo by -name- on Unsplash"
-
+  
 use-site-title: true
 ---
 
