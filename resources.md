@@ -1,4 +1,6 @@
 ---
 layout: page
-title: Community Resources & Favourite Books
+title: Resources
+bigimg:
+  - 'img/playground2.jpg': "Photo by Abby Chung on Pexels"
 ---
