@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Let's Connect
-bigimg:
-  - 'img/joanna-kosinska-uGcDWKN91Fs-unsplash.jpg': "Photo by Joanna Kosinska on Unsplash"
 ---
 
 __Danielle McEachern__  
