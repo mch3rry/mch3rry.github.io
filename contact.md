@@ -2,7 +2,7 @@
 layout: page
 title: Let's Connect
 bigimg:
-  - 'joanna-kosinska-uGcDWKN91Fs-unsplash.jpg': "Photo by Joanna Kosinska on Unsplash"
+  - 'img/joanna-kosinska-uGcDWKN91Fs-unsplash.jpg': "Photo by Joanna Kosinska on Unsplash"
 ---
 
 __Danielle McEachern__  
