@@ -5,11 +5,9 @@ bigimg:
   - 'img/houses.jpg': "Photo by -name- on Unsplash"
   - 'img/fabian-mardi-dS2BaLg4grM-unsplash.jpg': "Photo by -name- on Unsplash"
   - 'img/dev-benjamin-MIoC_fhA7LU-unsplash.jpg': "Photo by -name- on Unsplash"
-  - 'img/shinta-kikuchi-Iab-F_63atc-unsplash.jpg': "Photo by -name- on Unsplash"
-  - 'img/nikunj-gupta-x4sQx9iUMBI-unsplash.jpg': "Photo by -name- on Unsplash"
-  - 'img/susan-yin-2JIvboGLeho-unsplash.jpg': "Photo by -name- on Unsplash"
   - 'img/playground.jpg': "Photo by -name- on Unsplash"
-  - 'img/leonardo-wong-jPKfyXZ54vw-unsplash.jpg': "Photo by -name- on Unsplash"
+  - 'img/kawin-harasai-2Ev2aUB8NJI-unsplash.jpg': "Photo by -name- on Unsplash"
+  - 'img/jon-tyson--fQqwGNgIpw-unsplash.jpg': "Photo by -name- on Unsplash"
 
 use-site-title: true
 ---
