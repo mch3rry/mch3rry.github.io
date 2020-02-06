@@ -31,7 +31,7 @@ title: Resources
     <div class="project-card">
       <h3>Books</h3>
         <ul>
-         <li>Nurture</li>
+         <li><a href="https://www.amazon.ca/Nurture-Pregnancy-Motherhood-Trusting-Yourself/dp/1452152632"><i>Nurture</i></a> by Erica Chidi Cohen</li>
          <li>The First Forty Days</li>
          <li>The Birth Partner</li>
        </ul>
