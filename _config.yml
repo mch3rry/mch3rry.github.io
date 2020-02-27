@@ -37,14 +37,14 @@ title-img: "/img/LogoMakr_2JdhVn.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#A7D2DD"
+navbar-col: "#9DD8E8"
 navbar-text-col: "#FFF4F0"
-navbar-children-col: "#A7D2DD"
+navbar-children-col: "#9DD8E8"
 page-col: "#FFF4F0"
 page-text-col: "#2B2D42"
 link-col: "#008AFF"
 hover-col: "#FE7E79"
-footer-col: "#A7D2DD"
+footer-col: "#9DD8E8"
 footer-text-col: "#FFF4F0"
 footer-link-col: "#FFF4F0"
 
