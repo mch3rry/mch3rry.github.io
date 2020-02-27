@@ -7,7 +7,7 @@ __Danielle McEachern__
 Holistic, full-spectrum doula serving families in and around Vancouver BC
 
 (778) 879 - 0269  
-danielle@kinshipdoula.ca
+danielle@maisondoula.ca
 
 
 #### Get in touch to arrange a complimentary consultation!
