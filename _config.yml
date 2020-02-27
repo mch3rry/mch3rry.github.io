@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Kismet
+title: Maison Doula
 
 # Short description of your site
-description: Full-spectrum holistic doula serving families in and around Vancouver
+description: Holistic doula serving families in and around Vancouver
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -31,7 +31,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/kismetlogo.svg"
+title-img: "/img/MaisonDoulaLogo.svg"
 
 # --- Background colour/image options --- #
 
