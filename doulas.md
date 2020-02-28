@@ -7,7 +7,7 @@ title: ""
 <br><br>
 ### Support in every phase of new parenthood
 <br>
-<div class="row text-center">
+<div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
       <b>Prenatal prep and planning</b><br>
@@ -17,13 +17,14 @@ title: ""
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
       <b>Continuous labour and birth support</b><br>
-      <font size="2.5">Prenatal visits are an opportunity to get to know each other and to have a conversation about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your preferences for birth, and put together a plan for your initial postpartum period. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
+      <font size="2">Regardless of where you choose to give birth, your labour support starts when you decide. 
+</font>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
       <b>Dedicated postpartum care</b><br>
-      <font size="1">Prenatal visits are an opportunity to get to know each other and to have a conversation about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your preferences for birth, and put together a plan for your initial postpartum period. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
+      <font size="2"></font>
     </div>
   </div>
 </div>
@@ -31,10 +32,11 @@ title: ""
 <br>
 
 Maison Doula offers a comprehensive doula care package including:
-- Unlimited text and email support during your pregnancy, through six weeks postpartum 
 - Two prenatal and two postpartum visits
 - On-call for your birth, starting at 37 weeks
 - Continuous labour and birth support
+- Unlimited text and email support during your pregnancy, through six weeks postpartum 
+
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
