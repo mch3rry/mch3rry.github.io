@@ -2,8 +2,10 @@
 layout: page
 title: Holistic doula care for families
 bigimg:
-  - 'img/houses.jpg': "Photo by Fabian Mardi on Unsplash"
-  
+  - 'img/frontpic1.jpg'
+  - 'img/frontpic2.jpg'
+  - 'img/frontpic3.jpg'
+  - 'img/frontpic4.jpg'
 use-site-title: true
 ---
 
