@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ""
+title: "Holistic doula care for families"
 bigimg:
-  - 'img/babyfeet.png'
+  - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg'
 use-site-title: true
 ---
 
