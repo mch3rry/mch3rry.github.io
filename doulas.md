@@ -17,7 +17,7 @@ title: ""
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
       <b>Continuous labour and birth support</b><br>
-      <font size="2">Prenatal visits are an opportunity to get to know each other and to have a conversation about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your preferences for birth, and put together a plan for your initial postpartum period. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
+      <font size="2.5">Prenatal visits are an opportunity to get to know each other and to have a conversation about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your preferences for birth, and put together a plan for your initial postpartum period. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
