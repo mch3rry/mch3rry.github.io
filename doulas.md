@@ -3,9 +3,12 @@ layout: page
 title: ""
 ---
 
-### The benefits of a doula
-<br><br>
-### Support in every phase of new parenthood
+Maison Doula offers a comprehensive doula care package that includes:
+- Two prenatal and two postpartum visits
+- On-call for your birth, starting at 37 weeks
+- Continuous labour and birth support
+- Unlimited text and email support during your pregnancy, through six weeks postpartum 
+
 <br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
@@ -28,15 +31,6 @@ title: ""
     </div>
   </div>
 </div>
-
-<br>
-
-Maison Doula offers a comprehensive doula care package that includes:
-- Two prenatal and two postpartum visits
-- On-call for your birth, starting at 37 weeks
-- Continuous labour and birth support
-- Unlimited text and email support during your pregnancy, through six weeks postpartum 
-
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
