@@ -8,9 +8,9 @@ layout: null
 
 body {
   font-family: 'Josefin Sans', 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: lighter;
-  color: #3171BA;
+  color: #34344a;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
