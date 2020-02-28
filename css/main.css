@@ -8,9 +8,9 @@ layout: null
 
 body {
   font-family: 'Josefin Sans', 'Open Sans', sans-serif;
-  font-size: 180px;
+  font-size: 14px;
   font-weight: lighter;
-  color: #404040;
+  color: #3171BA;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -19,7 +19,7 @@ body {
   {% endif %}
 }
 p {
-  line-height: 10.5;
+  line-height: 1.1;
   margin: 20px 0;
 }
 h1 {
