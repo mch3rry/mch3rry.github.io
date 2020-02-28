@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Holistic doula care for families
+title: ""
 bigimg:
-  - 'img/frontpic1.jpg'
-  - 'img/frontpic2.jpg'
-  - 'img/frontpic3.jpg'
-  - 'img/frontpic4.jpg'
+  - 'img/frontpic1.png'
+  - 'img/frontpic2.png'
+  - 'img/frontpic3.png'
+  - 'img/frontpic4.png'
 use-site-title: true
 ---
 
