@@ -38,6 +38,14 @@ Maison Doula offers a comprehensive doula care package that includes:
 </div>
 <br>
 <br>
+<br>
+
+
+
+
+
+
+
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
