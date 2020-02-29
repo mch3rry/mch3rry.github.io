@@ -61,5 +61,6 @@ a.button {
     border: 1px solid transparent;
     height: auto;
     text-decoration: none;
+    align: center;
 }
 </style>
