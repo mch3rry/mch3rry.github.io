@@ -9,10 +9,9 @@ Maison Doula offers a comprehensive doula care package that includes:
 - Continuous labour and birth support
 - Unlimited text and email support during your pregnancy, through six weeks postpartum 
 
-<br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
+    <div class="project-card"> tc
       <b>Prenatal prep and planning</b><br>
       <font size="2">Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
     </div>
@@ -20,7 +19,7 @@ Maison Doula offers a comprehensive doula care package that includes:
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
       <b>Continuous labour and birth support</b><br>
-      <font size="2">Regardless of where you choose to give birth, your labour support starts when you decide. 
+      <font size="3">Regardless of where you choose to give birth, your labour support starts when you decide. I'll support you and your birth partner 
 </font>
     </div>
   </div>
@@ -31,6 +30,7 @@ Maison Doula offers a comprehensive doula care package that includes:
     </div>
   </div>
 </div>
+
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
