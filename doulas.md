@@ -8,40 +8,29 @@ Maison Doula offers a comprehensive doula care package that includes:
 - On-call for your birth, starting at 37 weeks
 - Continuous labour and birth support
 - Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
+<br>
 
 <div class="titles">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>In the Community</b>
+    <b>Prenatal prep and planning</b>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Online</b>
+    <b>Continuous labour and birth support</b>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Books</b>
+    <b>Dedicated postpartum care</b>
   </div>
 </div>
 <br>
 <div class="content">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <ul>
-      <li>Neighbourhood Houses</li>
-      <li>Westside Family Place</li>
-      <li>Hospitals</li>
-    </ul> 
+Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <ul>
-      <li><a href="https://evidencebasedbirth.com/">Evidence Based Birth</a></li>
-      <li><a href="https://spinningbabies.com/">Spinning Babies</a></li>
-    </ul> 
-    <br><br>
+Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <ul>
-      <li><a href="https://www.amazon.ca/Nurture-Pregnancy-Motherhood-Trusting-Yourself/dp/1452152632"><i>Nurture</i></a></li>
-      <li><a href="https://www.amazon.ca/First-Forty-Days-Essential-Nourishing/dp/1617691836/"><i>The First Forty Days</i></a></li>
-    </ul>
-    <br><br>
+Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
   </div>
 </div>
 
