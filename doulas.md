@@ -10,47 +10,26 @@ Maison Doula offers a comprehensive doula care package that includes:
 - Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
  
  
-<div class="titles">
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Prenatal prep and planning</b>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Continuous labour and birth support</b>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Dedicated postpartum care</b>
-  </div>
-</div>
- 
- 
-<br>
-<div class="content">
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth. 
-  </div>
+<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+     <b>Prenatal prep & planning</b><br>
+    </div>
+    <div style="display: inline-block;">
+          <b>Continuous labour & birth support</b><br>
+    </div>
+    <div style="display: inline-block;">
+          <b>Dedicated postpartum care</b><br>
+    </div>
 </div>
 
-<p>
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
 
 **Hourly postpartum care:** $25/hour (min. 3 hours)
-</p>
 
-<div style="white-space: pre">
 <a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
-</div>
 
 <style>  
-p {  
- white-space: pre-line;
-} 
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
