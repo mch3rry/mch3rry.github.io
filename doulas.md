@@ -42,12 +42,9 @@ Prenatal visits are a chance to get to know each other, and to talk about how yo
 
 **Hourly postpartum care:** $25/hour (min. 3 hours)
 
-[Get in touch for a complimentary consultation!](https://maisondoula.ca/contact/)
+<a href="https://maisondoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
 
-<a href="http://google.com" class="button">Go to Google</a>
-
-<style>
-  
+<style>  
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -62,5 +59,4 @@ a.button {
     height: auto;
     text-decoration: none;
 }
-
 </style>
