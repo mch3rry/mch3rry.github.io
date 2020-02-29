@@ -34,7 +34,7 @@ Maison Doula offers a comprehensive doula care package that includes:
     <font size="3">Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
   </div>
 </div>
-
+<br>
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
