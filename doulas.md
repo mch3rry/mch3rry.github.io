@@ -27,7 +27,9 @@ Maison Doula offers a comprehensive doula care package that includes:
 
 **Hourly postpartum care:** $25/hour (min. 3 hours)
 
+<div class="container">
 <a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
+</div>
 
 <style>  
 a.button {
@@ -43,6 +45,9 @@ a.button {
     border: 1px solid transparent;
     height: auto;
     text-decoration: none;
-    align: center;
+    display: inline-block;
+}
+.container {
+  text-align: center;
 }
 </style>
