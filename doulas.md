@@ -7,7 +7,7 @@ Maison Doula offers a comprehensive doula care package that includes:
 - Two prenatal and two postpartum visits
 - On-call for your birth, starting at 37 weeks
 - Continuous labour and birth support
-- Unlimited text and email support during your pregnancy, through six weeks postpartum 
+- Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
 
 <br>
 
