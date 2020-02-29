@@ -34,18 +34,31 @@ Maison Doula offers a comprehensive doula care package that includes:
       <li><a href="https://evidencebasedbirth.com/">Evidence Based Birth</a></li>
       <li><a href="https://spinningbabies.com/">Spinning Babies</a></li>
     </ul> 
+    <br><br>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <ul>
       <li><a href="https://www.amazon.ca/Nurture-Pregnancy-Motherhood-Trusting-Yourself/dp/1452152632"><i>Nurture</i></a></li>
       <li><a href="https://www.amazon.ca/First-Forty-Days-Essential-Nourishing/dp/1617691836/"><i>The First Forty Days</i></a></li>
     </ul>
+    <br><br>
   </div>
 </div>
 
+<br><br>
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
 
 **Hourly postpartum care:** $25/hour (min. 3 hours)
-    
+
 [Get in touch for a complimentary consultation!](https://maisondoula.ca/contact/)
+
+<a href="http://google.com" class="button">Go to Google</a>
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
