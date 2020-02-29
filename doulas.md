@@ -8,8 +8,8 @@ Maison Doula offers a comprehensive doula care package that includes:
 - On-call for your birth, starting at 37 weeks
 - Continuous labour and birth support
 - Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
-<br>
-
+ 
+ 
 <div class="titles">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <b>Prenatal prep and planning</b>
@@ -21,6 +21,8 @@ Maison Doula offers a comprehensive doula care package that includes:
     <b>Dedicated postpartum care</b>
   </div>
 </div>
+ 
+ 
 <br>
 <div class="content">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
