@@ -9,43 +9,39 @@ Maison Doula offers a comprehensive doula care package that includes:
 - Continuous labour and birth support
 - Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
 
-<br>
-
-<div class="all">
 <div class="titles">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Prenatal prep and planning</b>
+    <b>In the Community</b>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Continuous labour and birth support</b>
+    <b>Online</b>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Dedicated postpartum care</b>
+    <b>Books</b>
   </div>
 </div>
 <br>
 <div class="content">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <font size="3">Prenatal visits are a chance to get to know each other, and to talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.</font>
+    <ul>
+      <li>Neighbourhood Houses</li>
+      <li>Westside Family Place</li>
+      <li>Hospitals</li>
+    </ul> 
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <font size="3">Fever dream high in the quiet of the night you know that I caught it</font>
+    <ul>
+      <li><a href="https://evidencebasedbirth.com/">Evidence Based Birth</a></li>
+      <li><a href="https://spinningbabies.com/">Spinning Babies</a></li>
+    </ul> 
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <font size="3">Bad bad boy shiny toy with a price you know that I bought it</font>
+    <ul>
+      <li><a href="https://www.amazon.ca/Nurture-Pregnancy-Motherhood-Trusting-Yourself/dp/1452152632"><i>Nurture</i></a></li>
+      <li><a href="https://www.amazon.ca/First-Forty-Days-Essential-Nourishing/dp/1617691836/"><i>The First Forty Days</i></a></li>
+    </ul>
   </div>
 </div>
-</div>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
 
 **Fee:** ~~$900~~ $450  
 *The first five families will benefit from a reduced rate!*
