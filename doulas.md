@@ -52,3 +52,18 @@ Maison Doula offers a comprehensive doula care package that includes:
 **Hourly postpartum care:** $25/hour (min. 3 hours)
 
 [Get in touch for a complimentary consultation!](https://maisondoula.ca/contact/)
+
+<a href="http://google.com" class="button">Go to Google</a>
+
+<style>
+  
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+</style>
