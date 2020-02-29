@@ -20,7 +20,7 @@ Maison Doula offers a comprehensive doula care package that includes:
     <b>Continuous labour and birth support</b>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Dedicated postpartum care</b><br>
+    <b>Dedicated postpartum care</b>
   </div>
 </div>
 <br>
