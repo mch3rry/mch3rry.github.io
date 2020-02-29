@@ -10,7 +10,7 @@ Maison Doula offers a comprehensive doula care package that includes:
 - Unlimited phone, text and email support during your pregnancy, through six weeks postpartum 
  
  
-<div class="titles" style="white-space: pre">
+<div class="titles">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <b>Prenatal prep and planning</b>
   </div>
@@ -44,7 +44,7 @@ Prenatal visits are a chance to get to know each other, and to talk about how yo
 
 
 <div style="white-space: pre">
-<a href="https://maisondoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
+<a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
 </div>
 
 <style>  
