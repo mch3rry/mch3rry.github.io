@@ -27,8 +27,7 @@ Prenatal visits are a chance to get to know each other, and to talk about how yo
 *The first five families will benefit from a reduced rate!*
 
 **Hourly postpartum care:** $25/hour (min. 3 hours)
-
-<div class="center">
+<div class="container">
 <a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
 </div>
 
@@ -49,6 +48,6 @@ a.button {
     display: inline-block;
 }
 a.container {
-  text-align: center;
+  display: center;
 }
 </style>
