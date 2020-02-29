@@ -47,7 +47,7 @@ a.button {
     text-decoration: none;
     display: inline-block;
 }
-.container {
+a.container {
   text-align: center;
 }
 </style>
