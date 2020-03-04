@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Holistic doula care for families"
+title: "Evidence-based and Family-centred Doula Care"
 bigimg:
-  - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg'
+  - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg': Photo by Danijel Durkovic on Unsplash
 use-site-title: true
 ---
 
