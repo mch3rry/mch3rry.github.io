@@ -7,8 +7,8 @@ This is a paragraph.
 
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <b>Training</b><br>
+  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0">
+    <div class="text-center"><b>Training</b></div>
     <ul>
       <li>270-hour holistic doula training (<a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Pacific Rim College</a>, 2019)</li>
       <li>20-hour breastfeeding course (<a href="https://www.douglascollege.ca/programs-courses/continuing-education/perinatal-career/20-hr-breastfeeding">Douglas College</a>, 2020) </li>
