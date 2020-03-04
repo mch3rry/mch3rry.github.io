@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Evidence-based and Family-centred Doula Care"
+title: "Evidence-based, Family-centred Doula Care"
 bigimg:
   - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg': Photo by Danijel Durkovic on Unsplash
 use-site-title: true
@@ -13,16 +13,16 @@ We love birth for lots of reasons
 <br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <h3>Meet Danielle</h3><br>
+      <h4>Meet Danielle</h3><br>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <b>Frequently Asked Questions</b><br>
+      <h4>Frequently Asked Questions</h4><br>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <b>Services</b><br>
+      <h4>Services</h4><br>
     </div>
   </div>
 </div>
