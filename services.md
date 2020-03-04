@@ -23,5 +23,6 @@ a.button {
     height: auto;
     text-decoration: none;
     display: block;
+    text-align: center
 }
 </style>
