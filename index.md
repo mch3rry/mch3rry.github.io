@@ -1,28 +1,28 @@
 ---
 layout: page
-title: "Evidence-based, Family-centred Doula Care"
+title: ""
 bigimg:
   - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg': Photo by Danijel Durkovic on Unsplash
 use-site-title: true
 ---
 
-### Maison Doula support is always family-centred and evidence-based.
+## Evidence-based & Family-centred Doula Care
 
 We love birth for lots of reasons 
 
 <br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <h4>Meet Danielle</h4><br>
+      <img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle">
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <h4>Frequently Asked Questions</h4><br>
+      <img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas">
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <h4>Services</h4><br>
+      <img src="https://kinshipdoula.ca/img/Services.svg" alt="Services">
     </div>
   </div>
 </div>
