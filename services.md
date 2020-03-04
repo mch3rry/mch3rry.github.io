@@ -6,7 +6,7 @@ title: ""
 ### Maison Doula offers a comprehensive birth doula package, and à la carte postpartum care
 
 
-<a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a>
+<div class="text-center"><a href="https://kinshipdoula.ca/contact/)" class="button">Get in touch for a complimentary consultation</a></div>
 
 <style>  
 a.button {
