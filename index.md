@@ -13,7 +13,7 @@ We love birth for lots of reasons
 <br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <b>Meet Danielle</b><br>
+      <h3>Meet Danielle</h3><br>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
