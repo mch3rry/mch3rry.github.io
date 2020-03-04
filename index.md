@@ -6,10 +6,11 @@ bigimg:
 use-site-title: true
 ---
 
-##Maison Doula support is always family-centred and evidence-based.
+## Maison Doula support is always family-centred and evidence-based.
 
-We love birth for lots of reasons
+We love birth for lots of reasons 
 
+<br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
       <b>Meet Danielle</b><br>
@@ -26,7 +27,9 @@ We love birth for lots of reasons
   </div>
 </div>
 
-#### Get in touch to arrange a complimentary consultation!
+<br><br>
+#### Get in touch to arrange a complimentary consultation! 
+
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <input type="text" name="Name" placeholder="Name">
     <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
