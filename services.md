@@ -23,6 +23,9 @@ a.button {
     height: auto;
     text-decoration: none;
     display: block;
-    text-align: center
+    text-align: center;
+}
+.button:hover {
+    font-style: italic;
 }
 </style>
