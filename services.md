@@ -15,13 +15,13 @@ a.button {
     color: white;
     background-color: #B6468C;
     border-radius: 20px;
-    padding: 0.75em;
-    margin: 0.25em 0 0 0;
+    padding: 10px 20px;
+    margin: auto;
     border: 1px solid transparent;
     height: auto;
     text-decoration: none;
-    display: block;
     text-align: center;
+    display: block;
 }
 .button:hover {
     font-style: italic;
