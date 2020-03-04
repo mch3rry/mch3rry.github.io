@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: " "
 bigimg:
   - 'img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg': Photo by Danijel Durkovic on Unsplash
 use-site-title: true
