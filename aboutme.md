@@ -15,9 +15,9 @@ This is a paragraph.
        <li>Standard First Aid and CPR (St John’s Ambulance, 2020)</li>
     </ul>
   </div>
-  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+  <div class="col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <div class="project-card">
-      <b>In the Community</b>
+      <div class="text-center"><b>In the Community</b></div>
       <ul>
       <li>Cuddle Visit Volunteer with Vancouver Coastal Health (2019-present)</li>
         <li><a href="https://www.bigsisters.bc.ca/get-involved/become-a-volunteer/study-buddy/">Big Sisters</a> (2014-2017)</li>
