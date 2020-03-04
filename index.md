@@ -15,16 +15,16 @@ We love birth for lots of reasons
 <br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle">
+      <a href="https://kinshipdoula.ca/aboutme/"><img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle"></a>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas">
+      <a href="https://kinshipdoula.ca/doulas/"><img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas"></a>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <img src="https://kinshipdoula.ca/img/Services.svg" alt="Services">
+      <a href="https://kinshipdoula.ca/services"><img src="https://kinshipdoula.ca/img/Services.svg" alt="Services"></a>
     </div>
   </div>
 </div>
