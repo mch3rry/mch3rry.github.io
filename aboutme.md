@@ -20,7 +20,7 @@ This is a paragraph.
       <b>In the Community</b>
       <ul>
       <li>Cuddle Visit Volunteer with Vancouver Coastal Health (2019-present)</li>
-      <li>[Big Sisters](https://www.bigsisters.bc.ca/get-involved/become-a-volunteer/study-buddy/) (2014-2017)</li>
+        <li><a href="https://www.bigsisters.bc.ca/get-involved/become-a-volunteer/study-buddy/">Big Sisters</a> (2014-2017)</li>
     </ul>
     </div>
   </div>
