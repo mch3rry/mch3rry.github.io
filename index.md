@@ -15,16 +15,16 @@ We love birth for lots of reasons
 <br><br>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <a href="https://kinshipdoula.ca/aboutme/"><img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle"></a>
+      <a href="https://kinshipdoula.ca/aboutme/"><img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle"></a><br>1<br>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <a href="https://kinshipdoula.ca/doulas/"><img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas"></a>
+      <a href="https://kinshipdoula.ca/doulas/"><img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas"></a><br>2<br>
     </div>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <a href="https://kinshipdoula.ca/services"><img src="https://kinshipdoula.ca/img/Services.svg" alt="Services"></a>
+      <a href="https://kinshipdoula.ca/services"><img src="https://kinshipdoula.ca/img/Services.svg" alt="Services"></a><br>3<br>
     </div>
   </div>
 </div>
