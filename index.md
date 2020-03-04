@@ -6,7 +6,7 @@ bigimg:
 use-site-title: true
 ---
 
-## Maison Doula support is always family-centred and evidence-based.
+### Maison Doula support is always family-centred and evidence-based.
 
 We love birth for lots of reasons 
 
