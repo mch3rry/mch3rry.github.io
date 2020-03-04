@@ -6,9 +6,9 @@ bigimg:
 use-site-title: true
 ---
 
-<p style="text-align: center;">
+<div class="text-center">
   <h2>Evidence-based & Family-centred Doula Care</h2>
-</p>
+</div>
 <br><br>
 We love birth for lots of reasons 
 
