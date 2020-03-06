@@ -10,27 +10,29 @@ use-site-title: true
   <h2>Evidence-based & Family-centred Doula Care</h2>
 </div>
 <br><br>
-We love birth for lots of reasons 
 
-<br><br>
 <div class="row">
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-      <a href="https://kinshipdoula.ca/aboutme/"><img src="https://kinshipdoula.ca/img/MeetDanielle.svg" alt="Meet Danielle"></a>
-    <br><br>
+  <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
-      <a href="https://kinshipdoula.ca/doulas/"><img src="https://kinshipdoula.ca/img/AboutDoulas.svg" alt="About Doulas"></a>
-      <br><br>
-    </div>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
-      <a href="https://kinshipdoula.ca/services"><img src="https://kinshipdoula.ca/img/Services.svg" alt="Services"></a>
-      <br><br>
-    </div>
+    <h3>Danielle McEachern</h3>
+    <br>Birth & Postpartum Doula
   </div>
 </div>
+<br><br>
+
+### Services
+
+My support for you and your family includes:
+* Unlimited phone/text/email support throughout your pregnancy, and up to 6 weeks postpartum
+* On-call for your birth, starting at 36 weeks 
+* Two prenatal visits: we’ll get to know each other, and talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.
+* Continuous labour support
+* Two postpartum visits
+
+**Fee:** $800
+
+À la carte postpartum care is available for $20/hour.
 
 <br><br>
 #### Get in touch to arrange a complimentary consultation! 
