@@ -4,7 +4,7 @@
 title: Maison Doula
 
 # Short description of your site
-description: Holistic doula serving families in and around Vancouver
+description: Evidence-based and Family-centred Doula Care in Vancouver BC
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -64,7 +64,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-email: "danielle@maisondoula.ca"
+email: "Danielle@MaisonDoula.ca"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
