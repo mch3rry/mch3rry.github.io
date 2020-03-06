@@ -22,7 +22,7 @@ My support for you and your family includes:
 * Unlimited phone/text/email support throughout your pregnancy, and up to 6 weeks postpartum
 * On-call 24/7 for your birth, starting at 36 weeks 
 * Two prenatal visits
-  * We’ll get to know each other, and talk about how you envision your birth. We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.
+  * We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.
 * Continuous labour support
 * Two postpartum visits
 
