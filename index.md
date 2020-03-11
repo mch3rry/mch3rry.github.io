@@ -12,6 +12,7 @@ use-site-title: true
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <h3>Danielle McEachern</h3>
     <br>Birth & Postpartum Doula
+    <br><i>She/Her</>
   </div>
 </div>
 <br><br>
