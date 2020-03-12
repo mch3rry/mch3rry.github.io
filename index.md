@@ -30,7 +30,7 @@ use-site-title: true
 
 **Fee:** $800
 
-**À la Carte Postpartum Care** is available for $20/hour.
+**À la carte Postpartum Care** is available for $20/hour.
 
 <br><br>
 #### Get in touch to arrange a complimentary consultation! 
