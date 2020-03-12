@@ -20,7 +20,7 @@ use-site-title: true
 
 ### Services
 
-My support for you and your family includes:
+**Comprehensive Birth Doula Care** for you and your family includes:
 * Unlimited phone/text/email support throughout your pregnancy, and up to 6 weeks postpartum
 * On-call 24/7 for your birth, starting at 36 weeks 
 * Two prenatal visits
@@ -30,7 +30,7 @@ My support for you and your family includes:
 
 **Fee:** $800
 
-À la carte postpartum care is available for $20/hour.
+**À la Carte Postpartum Care** is available for $20/hour.
 
 <br><br>
 #### Get in touch to arrange a complimentary consultation! 
