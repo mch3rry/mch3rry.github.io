@@ -19,7 +19,9 @@ use-site-title: true
 </div>
 <br><br>
 
-*I acknowledge that I live and doula on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations.*
+*I acknowledge that I live and doula on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations.* 
+
+
 
 ### Services
 
