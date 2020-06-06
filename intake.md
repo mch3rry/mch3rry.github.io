@@ -32,13 +32,13 @@ title: "New Client Intake"
     <input type="date" name="EDD"><br>
     <label for="CareProviderName">Name of care provider:</label>
     <input type="text" name="CareProviderName">
-    <label for="CareProviderPhone">Phone number:</label>
-    <input type="CareProviderPhone">
+    <label for="CareProviderPhone">Phone number:</label><br>
+    <input type="CareProviderPhone"><br>
     <label for="CareProviderType">Practice:</label>
     <select name="CareProviderType">
         <option value="Midwife">Midwife</option>
         <option value="Family Doctor">Family Doctor</option>
-        <option value="OBGYN">OB/GYN</option></select>
+        <option value="OBGYN">OB/GYN</option></select><br>
     <label for="BirthPlace">Place of birth:</label>
     <input type="text" name="BirthPlace" placeholder="Home, or specify which hospital">
     <label for="MedConcerns">Do you have any risk factors or medical concerns for this pregnancy?</label>
@@ -47,6 +47,7 @@ title: "New Client Intake"
     <input type="text" name="Meds">    
     <label for="Allergies">Do you have any allergies or intolerances?</label>
     <input type="text" name="Allergies">
+    
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
