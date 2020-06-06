@@ -52,4 +52,9 @@ form.wj-contact input[type="submit"] {
     border: 1px solid transparent;
     height: auto;
 }
+
+label {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: xx-small;
+}
 </style>
