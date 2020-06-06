@@ -49,7 +49,7 @@ title: "New Client Intake"
     <input type="text" name="Allergies">
     <label for="nPregnancies">Number of pregnancies:</label>
     <input type="text" name="nPregnancies">
-    <label for="">Have you experienced any of the following?</label>
+    <label for="">Have you experienced any of the following?</label><br>
     <input type="checkbox" name="P1" value="Miscarriage">
     <label for="P1">Miscarriage</label><br>
     <input type="checkbox" name="P2" value="Abortion">
@@ -57,7 +57,7 @@ title: "New Client Intake"
     <input type="checkbox" name="P3" value="Stillbirth">
     <label for="P3">Stillbirth</label><br>
     <input type="checkbox" name="P4" value="C-section">
-    <label for="P4">C-section</label><br><br>
+    <label for="P4">C-section</label><br>
     <input type="checkbox" name="P5" value="VBAC">
     <label for="P5">VBAC or HBAC</label><br><br>
     <input type="hidden" name="_subject" value="New Client Intake">
