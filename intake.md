@@ -40,11 +40,11 @@ title: "New Client Intake"
         <option value="Family Doctor">Family Doctor</option>
         <option value="OBGYN">OB/GYN</option></select><br>
     <label for="BirthPlace">Place of birth:</label>
-    <input type="text" name="BirthPlace" placeholder="Home, or specify which hospital">
+    <input type="text" name="BirthPlace" placeholder="Home, or specify hospital">
     <label for="MedConcerns">Do you have any risk factors or medical concerns for this pregnancy?</label>
     <textarea type="text" name="MedConcerns" rows="3"></textarea>
     <label for="Meds">Do you take any medication, vitamins, supplements, etc?</label>
-    <input type="text" name="Meds">    
+    <textarea type="text" name="Meds" rows="3"></textarea>  
     <label for="Allergies">Do you have any allergies or intolerances?</label>
     <input type="text" name="Allergies">
     <input type="hidden" name="_subject" value="New Client Intake">
