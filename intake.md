@@ -56,8 +56,8 @@ title: "New Client Intake"
     <label for="P2">Abortion</label><br>
     <input type="checkbox" name="P3" value="Stillbirth">
     <label for="P3">Stillbirth</label><br>
-    <input type="checkbox" name="P3" value="C-section">
-    <label for="P3">C-section</label><br><br>
+    <input type="checkbox" name="P4" value="C-section">
+    <label for="P4">C-section</label><br><br>
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
