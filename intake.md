@@ -47,7 +47,6 @@ title: "New Client Intake"
     <input type="text" name="Meds">    
     <label for="Allergies">Do you have any allergies or intolerances?</label>
     <input type="text" name="Allergies">
-    
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
