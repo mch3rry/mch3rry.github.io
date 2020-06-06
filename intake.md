@@ -8,7 +8,7 @@ title: "New Client Intake"
     <input type="text" name="ClientName">
     <label for="Pronouns">Preferred pronouns:</label>
     <input type="text" name="Pronouns">
-    <label for="Birthday">Date of birth:</label><br>
+    <label for="Birthday">Pregnant person's date of birth:</label><br>
     <input type="date" name="Birthday"><br><br>
     <label for="ClientPhone">Phone number:</label>
     <input type="text" name="ClientPhone">
