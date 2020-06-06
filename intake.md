@@ -9,7 +9,7 @@ title: "New Client Intake"
     <label for="Pronouns">Preferred pronouns:</label>
     <input type="text" name="Pronouns">
     <label for="Birthday">Date of birth:</label><br>
-    <input type="date" name="Birthday"><br>
+    <input type="date" name="Birthday"><br><br>
     <label for="ClientPhone">Phone number:</label>
     <input type="text" name="ClientPhone">
     <label for="Email">Email:</label>
@@ -29,7 +29,7 @@ title: "New Client Intake"
     <label for="Childcare">If applicable: What is your care plan for your children during labour?</label>
     <input type="text" name="Childcare">
     <label for="EDD">Estimated due date:</label><br>
-    <input type="date" name="EDD"><br>
+    <input type="date" name="EDD"><br><br>
     <label for="CareProviderName">Name of care provider:</label>
     <input type="text" name="CareProviderName">
     <label for="CareProviderPhone">Phone number:</label>
