@@ -22,6 +22,8 @@ title: "New Client Intake"
     <input type="text" name="AddressInstructions" placeholder="Special instructions for accessing your home">
     <label for="PartnerName">Name of partner/support person:</label>
     <input type="text" name="PartnerName">
+    <label for="PartnerPronouns">Preferred pronouns:</label>
+    <input type="text" name="PartnerPronouns">
     <label for="PartnerPhone">Phone number:</label>
     <input type="text" name="PartnerPhone">
     <label for="Children">Names and ages of any children:</label>
