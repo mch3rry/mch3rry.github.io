@@ -4,12 +4,11 @@ title: "New Client Intake"
 ---
 
 <form class="wj-contact" action="https://formspree.io/xlelpddo" method="POST">
-    Name of pregnant person:
-    <input type="text" name="Name" placeholder="First Last">
-    <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
+    Name of pregnant person: <input type="text" name="Name" placeholder="First Last">
+    Preferred pronouns: <input type="text" name="Preferred pronouns">
     Date of birth: <input type="date" name="Birthday">
-    <input type="email" name="_replyto" placeholder="Email">
-    <input type="text" name="EDD" placeholder="Estimated due date">
+    Phone number: <input type="text" name="ClientPhone">
+    Email: <input type="email" name="_replyto">
     <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
