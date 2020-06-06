@@ -47,6 +47,17 @@ title: "New Client Intake"
     <textarea type="text" name="Meds" rows="3"></textarea>  
     <label for="Allergies">Do you have any allergies or intolerances?</label>
     <input type="text" name="Allergies">
+    <label for="nPregnancies">Number of pregnancies:</label>
+    <input type="text" name="nPregnancies">
+    <label for="">Have you experienced any of the following?</label>
+    <input type="checkbox" name="P1" value="Miscarriage">
+    <label for="P1">Miscarriage</label><br>
+    <input type="checkbox" name="P2" value="Abortion">
+    <label for="P2">Abortion</label><br>
+    <input type="checkbox" name="P3" value="Stillbirth">
+    <label for="P3">Stillbirth</label><br>
+    <input type="checkbox" name="P3" value="C-section">
+    <label for="P3">C-section</label><br><br>
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
