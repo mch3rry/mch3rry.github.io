@@ -60,6 +60,12 @@ title: "New Client Intake"
     <label for="P4">C-section</label><br>
     <input type="checkbox" name="P5" value="VBAC">
     <label for="P5">VBAC or HBAC</label><br><br>
+    <label for="BirthExperiences">Describe any previous birth experiences.</label>
+    <textarea type="text" name="BirthExperiences" rows="6"></textarea>
+    <label for="ChildbirthClass">Have you taken, or do you plan to take, a childbirth education class? If so, who is the instructor?</label>
+    <input type="text" name="ChildbirthClass">
+    <label for="PPPlan">Do you have a postpartum plan? If so, please describe.</label>
+    <textarea type="text" name="PPPlan" rows="6"></textarea>
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
