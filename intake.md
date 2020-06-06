@@ -62,7 +62,7 @@ form.wj-contact input[type="submit"] {
 }
 
 label {
- font-family: Verdana, Arial, Helvetica, sans-serif;
- font-size: xx-small;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: lighter;
 }
 </style>
