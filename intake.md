@@ -9,11 +9,16 @@ title: "New Client Intake"
     <label for="Pronouns">Preferred pronouns:</label>
     <input type="text" name="Pronouns">
     <label for="Birthday">Date of birth:</label>
-    <input type="date" name="Birthday">
+    <input type="date" name="Birthday"><br>
     <label for="ClientPhone">Phone number:</label>
     <input type="text" name="ClientPhone">
     <label for="Email">Email:</label>
     <input type="email" name="_replyto">
+    <label for="Address">Address:</label>
+    <input type="text" name="AddressLine1">
+    <input type="text" name="AddressLine2">
+    <input type="text" name="AddressCity">
+    <input type="text" name="
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
