@@ -32,8 +32,8 @@ title: "New Client Intake"
     <input type="date" name="EDD"><br>
     <label for="CareProviderName">Name of care provider:</label>
     <input type="text" name="CareProviderName">
-    <label for="CareProviderPhone">Phone number:</label><br>
-    <input type="CareProviderPhone"><br>
+    <label for="CareProviderPhone">Phone number:</label>
+    <input type="text" name="CareProviderPhone">
     <label for="CareProviderType">Practice:</label>
     <select name="CareProviderType">
         <option value="Midwife">Midwife</option>
