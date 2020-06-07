@@ -5,7 +5,7 @@ title: "New Client Intake"
 
 <form class="wj-contact" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
-    <h3>Personal Details</h3>
+    <h3>Personal Details</h3><br>
     <label for="ClientName">Name of pregnant person:</label>
     <input type="text" name="ClientName">
     <label for="Pronouns">Preferred pronouns:</label>
@@ -33,7 +33,7 @@ title: "New Client Intake"
     <label for="Childcare">If applicable: What is your care plan for your children during labour?</label>
     <input type="text" name="Childcare">
     <hr>
-    <h3>More Details</h3>
+    <h3>More Details</h3><br>
     <label for="EDD">Estimated due date:</label><br>
     <input type="date" name="EDD"><br><br>
     <label for="CareProviderName">Name of care provider:</label>
