@@ -53,13 +53,13 @@ title: "New Client Intake"
     <input type="text" name="nPregnancies">
     <label for="">Have you experienced any of the following?</label><br>
     <input type="checkbox" name="P1" value="Miscarriage">
-    <label for="P1">Miscarriage   </label>
+    <label for="P1">Miscarriage</label>
     <input type="checkbox" name="P2" value="Abortion">
-    <label for="P2">Abortion   .  </label>
+    <label for="P2">Abortion</label>
     <input type="checkbox" name="P3" value="Stillbirth">
-    <label for="P3">Stillbirth   </label>
+    <label for="P3">Stillbirth</label>
     <input type="checkbox" name="P4" value="C-section">
-    <label for="P4">C-section   </label>
+    <label for="P4">C-section</label>
     <input type="checkbox" name="P5" value="VBAC">
     <label for="P5">VBAC or HBAC</label><br><br>
     <label for="BirthExperiences">Describe any previous birth experiences.</label>
