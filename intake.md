@@ -55,7 +55,7 @@ title: "New Client Intake"
     <input type="checkbox" name="P1" value="Miscarriage">
     <label for="P1">Miscarriage   </label>
     <input type="checkbox" name="P2" value="Abortion">
-    <label for="P2">Abortion   </label>
+    <label for="P2">Abortion   .  </label>
     <input type="checkbox" name="P3" value="Stillbirth">
     <label for="P3">Stillbirth   </label>
     <input type="checkbox" name="P4" value="C-section">
