@@ -53,17 +53,17 @@ title: "New Client Intake"
     <input type="text" name="Allergies">
     <label for="nPregnancies">Number of pregnancies:</label>
     <input type="text" name="nPregnancies">
-    <label for="">Have you experienced any of the following?</label><br>
-    <input type="checkbox" name="P1" value="Miscarriage">
-    <label for="P1">Miscarriage</label>
-    <input type="checkbox" name="P2" value="Abortion">
-    <label for="P2">Abortion</label>
-    <input type="checkbox" name="P3" value="Stillbirth">
-    <label for="P3">Stillbirth</label>
-    <input type="checkbox" name="P4" value="C-section">
-    <label for="P4">C-section</label>
-    <input type="checkbox" name="P5" value="VBAC">
-    <label for="P5">VBAC or HBAC</label><br><br>
+    <label for="Outcomes">Have you experienced any of the following?</label><br>
+    <input type="checkbox" name="Outcomes" value="Miscarriage">
+    <label for="Outcomes">Miscarriage</label>
+    <input type="checkbox" name="Outcomes" value="Abortion">
+    <label for="Outcomes">Abortion</label>
+    <input type="checkbox" name="Outcomes" value="Stillbirth">
+    <label for="Outcomes">Stillbirth</label>
+    <input type="checkbox" name="Outcomes" value="C-section">
+    <label for="Outcomes">C-section</label>
+    <input type="checkbox" name="Outcomes" value="VBAC">
+    <label for="Outcomes">VBAC or HBAC</label><br><br>
     <label for="BirthExperiences">Describe any previous birth experiences.</label>
     <textarea type="text" name="BirthExperiences" rows="6"></textarea>
     <label for="ChildbirthClass">Have you taken, or do you plan to take, a childbirth education class? If so, who is the instructor?</label>
