@@ -36,11 +36,13 @@ title: "New Client Intake"
     <input type="text" name="CareProviderName">
     <label for="CareProviderPhone">Phone number:</label>
     <input type="text" name="CareProviderPhone">
-    <label for="CareProviderType">Practice:</label>
-    <select name="CareProviderType">
-        <option value="Midwife">Midwife</option>
-        <option value="Family Doctor">Family Doctor</option>
-        <option value="OBGYN">OB/GYN</option></select><br>
+    <label for="CareProviderType">Practice:</label><br>
+    <input type="radio" name="CareProviderType" value="Midwife">
+    <label for="CareProviderType">Midwife</label>
+    <input type="radio" name="CareProviderType" value="Family Doctor">
+    <label for="CareProviderType">Family Doctor</label>
+    <input type="radio" name="CareProviderType" value="OB/GYN">
+    <label for="CareProviderType">OB/GYN</label><br><br>
     <label for="BirthPlace">Place of birth:</label>
     <input type="text" name="BirthPlace" placeholder="Home, or specify hospital">
     <label for="MedConcerns">Do you have any risk factors or medical concerns for this pregnancy?</label>
