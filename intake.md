@@ -172,11 +172,11 @@ div.center {
 
 div.right {
     float: right;
-    width: 60%;
+    width: 38%;
 }
 
 div.left {
     float: left;
-    width: 35%;
+    width: 60%;
 }
 </style>
