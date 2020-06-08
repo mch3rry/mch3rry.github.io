@@ -6,7 +6,7 @@ title: "New Client Intake"
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h3>Personal Details</h3><br>
-    <h4>Hacking: adding a bunch of center divs</h4><br>
+    <h4>Hacking: adding a bunch of divs.2</h4><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -67,7 +67,7 @@ title: "New Client Intake"
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
     </div>
-    <div class="center"
+    <div class="center">
         <label for="CareProviderName">Name of care provider:</label>
         <input type="text" name="CareProviderName">
     </div>
@@ -96,7 +96,7 @@ title: "New Client Intake"
         <label for="Meds">Do you take any medication, vitamins, supplements, etc?</label>
         <textarea type="text" name="Meds" rows="3"></textarea>  
     </div>
-    <div class="center>
+    <div class="center">
         <label for="Allergies">Do you have any allergies or intolerances?</label>
         <input type="text" name="Allergies">
     </div>
