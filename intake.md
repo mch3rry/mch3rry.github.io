@@ -6,6 +6,7 @@ title: "New Client Intake"
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h4>Contact Information</h4><br>
+    <h4>more tries</h4><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -57,11 +58,11 @@ title: "New Client Intake"
     </div>
     <hr>
     <h4>Current Pregnancy & Medical History</h4><br>
-    <div class="left">
+    <div class="left2">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD">
     </div>
-    <div class="right">
+    <div class="right2">
         <label for="Birthday">Pregnant person's date of birth:</label><br>
         <input type="date" name="Birthday">
     </div>
@@ -184,11 +185,11 @@ div.left {
 
 div.right2 {
     float: right;
-    width: 50%;
+    width: 30%;
 }
 
 div.left2 {
     float: left
-    width: 50%
+    width: 30%
 }
 </style>
