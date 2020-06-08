@@ -66,14 +66,6 @@ title: "New Client Intake"
         <label for="Birthday">Pregnant person's date of birth:</label><br>
         <input type="date" name="Birthday"><br><br>
     </div>
-    <div class="left">
-        <label for="CareProviderName">Name of care provider:</label>
-        <input type="text" name="CareProviderName">
-    </div>
-    <div class="right">
-        <label for="PracticeName">Name of practice:</label>
-        <input type="text" name="PracticeName">
-    </div>
     <div class="center">
         <label for="CareProviderType">Type of practice:</label><br>
         <input type="radio" name="CareProviderType" value="Midwife">
@@ -82,6 +74,14 @@ title: "New Client Intake"
         <label for="CareProviderType">Family Doctor</label>
         <input type="radio" name="CareProviderType" value="OB/GYN">
         <label for="CareProviderType">OB/GYN</label><br><br>
+    </div>
+    <div class="left">
+        <label for="CareProviderName">Name of care provider:</label>
+        <input type="text" name="CareProviderName">
+    </div>
+    <div class="right">
+        <label for="PracticeName">Name of practice:</label>
+        <input type="text" name="PracticeName">
     </div>
     <div class="center">
         <label for="CareProviderPhone">Phone number:</label>
