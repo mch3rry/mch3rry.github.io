@@ -5,8 +5,7 @@ title: "New Client Intake"
 
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
-    <h3>Personal Details</h3><br>
-    <h4>Hacking: adding a bunch of divs.3</h4><br>
+    <h4>Contact Details</h4><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -29,8 +28,7 @@ title: "New Client Intake"
     </div>
     <div class="center">
         <label for="Address">Address:</label>
-        <input type="text" name="AddressLine1" placeholder="Line 1">
-        <input type="text" name="AddressLine2" placeholder="Line 2">
+        <input type="text" name="AddressLine1" placeholder="Street">
     </div>
     <div class="left">
         <input type="text" name="AddressCity" placeholder="City">
@@ -62,20 +60,16 @@ title: "New Client Intake"
         <input type="text" name="Childcare">
     </div>
     <hr>
-    <h3>More Details</h3><br>
+    <h4>Current Pregnancy and Medical History</h4><br>
     <div class="center">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
     </div>
-    <div class="center">
+    <div class="left">
         <label for="CareProviderName">Name of care provider:</label>
         <input type="text" name="CareProviderName">
     </div>
-    <div class="center">
-        <label for="CareProviderPhone">Phone number:</label>
-        <input type="text" name="CareProviderPhone">
-    </div>
-    <div class="center">
+    <div class="right">
         <label for="CareProviderType">Practice:</label><br>
         <input type="radio" name="CareProviderType" value="Midwife">
         <label for="CareProviderType">Midwife</label>
@@ -85,6 +79,9 @@ title: "New Client Intake"
         <label for="CareProviderType">OB/GYN</label><br><br>
     </div>
     <div class="center">
+        <label for="CareProviderPhone">Phone number:</label>
+        <input type="text" name="CareProviderPhone">
+    </div><div class="center">
         <label for="BirthPlace">Place of birth:</label>
         <input type="text" name="BirthPlace" placeholder="Home, or specify hospital">
     </div>
