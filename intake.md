@@ -57,11 +57,11 @@ title: "New Client Intake"
     </div>
     <hr>
     <h4>Current Pregnancy & Medical History</h4><br>
-    <div class="left">
+    <div class="left2">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
     </div>
-    <div class="right">
+    <div class="right2">
         <label for="Birthday">Pregnant person's date of birth:</label><br>
         <input type="date" name="Birthday"><br><br>
     </div>
@@ -80,7 +80,7 @@ title: "New Client Intake"
         <input type="radio" name="CareProviderType" value="Family Doctor">
         <label for="CareProviderType">Family Doctor</label>
         <input type="radio" name="CareProviderType" value="OB/GYN">
-        <label for="CareProviderType">OB/GYN</label><br>
+        <label for="CareProviderType">OB/GYN</label><br><br>
     </div>
     <div class="center">
         <label for="CareProviderPhone">Phone number:</label>
@@ -179,5 +179,15 @@ div.right {
 div.left {
     float: left;
     width: 60%;
+}
+
+div.right2 {
+    float: right;
+    width: 50%;
+}
+
+div.left2 {
+    float: left
+    width: 50%
 }
 </style>
