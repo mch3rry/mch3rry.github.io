@@ -6,10 +6,14 @@ title: "New Client Intake"
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h3>Personal Details</h3><br>
-    <label for="ClientName">Name of pregnant person:</label>
-    <input type="text" name="ClientName">
-    <label for="Pronouns">Preferred pronouns:</label>
-    <input type="text" name="Pronouns">
+    <div class="left">
+        <label for="ClientName">Name of pregnant person:</label>
+        <input type="text" name="ClientName">
+    </div>
+    <div class="right">
+        <label for="Pronouns">Preferred pronouns:</label>
+        <input type="text" name="Pronouns">
+    </div>
     <label for="Birthday">Pregnant person's date of birth:</label><br>
     <input type="date" name="Birthday"><br><br>
     <label for="ClientPhone">Phone number:</label>
