@@ -5,7 +5,7 @@ title: "New Client Intake"
 
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
-    <h4>Contact Details</h4><br>
+    <h4>Contact Information</h4><br>
     <h5>test1</h5><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
