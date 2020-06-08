@@ -6,7 +6,7 @@ title: "New Client Intake"
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h4>Contact Information</h4><br>
-    <h4>more hacks</h4><br>
+    <h4>more hacks... hack hack hack</h4><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -60,11 +60,11 @@ title: "New Client Intake"
     <h4>Current Pregnancy & Medical History</h4><br>
     <div class="center">
         <label for="EDD">Estimated due date:</label><br>
-        <input type="date" name="EDD"><br>
+        <input type="date" name="EDD"><br><br>
     </div>
     <div class="center">
         <label for="Birthday">Pregnant person's date of birth:</label><br>
-        <input type="date" name="Birthday"><br>
+        <input type="date" name="Birthday"><br><br>
     </div>
     <div class="left">
         <label for="CareProviderName">Name of care provider:</label>
@@ -75,7 +75,7 @@ title: "New Client Intake"
         <input type="text" name="PracticeName">
     </div>
     <div class="center">
-        <label for="CareProviderType">Practice:</label><br>
+        <label for="CareProviderType">Type of practice:</label><br>
         <input type="radio" name="CareProviderType" value="Midwife">
         <label for="CareProviderType">Midwife</label>
         <input type="radio" name="CareProviderType" value="Family Doctor">
