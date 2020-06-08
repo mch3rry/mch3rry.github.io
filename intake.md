@@ -6,6 +6,7 @@ title: "New Client Intake"
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h4>Contact Information</h4><br>
+    <h4>    clear: both;</h4><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -169,6 +170,7 @@ label {
 }
 
 div.center {
+    clear: both;
 }
 
 div.right {
