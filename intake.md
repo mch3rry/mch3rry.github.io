@@ -32,20 +32,20 @@ title: "New Client Intake"
         <input type="text" name="AddressLine1" placeholder="Line 1">
         <input type="text" name="AddressLine2" placeholder="Line 2">
     </div>
-    <div class="center">
+    <div class="left">
         <input type="text" name="AddressCity" placeholder="City">
     </div>
-    <div class="center">
+    <div class="right">
         <input type="text" name="AddressPostalCode" placeholder="Postal Code">
     </div>
     <div class="center">
         <input type="text" name="AddressInstructions" placeholder="Special instructions for accessing your home">
     </div>
-    <div class="center">
+    <div class="left">
         <label for="PartnerName">Name of partner/support person:</label>
         <input type="text" name="PartnerName">
     </div>
-    <div class="center">
+    <div class="right">
         <label for="PartnerPronouns">Preferred pronouns:</label>
         <input type="text" name="PartnerPronouns">
     </div>
