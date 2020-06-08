@@ -104,7 +104,7 @@ title: "New Client Intake"
     </div>
     <div class="left2">
         <label for="nPregnancies">Number of pregnancies:</label>
-        <input type="text" name="nPregnancies">
+        <input type="text" name="nPregnancies" size="10">
     </div>
     <div class="right2">
         <label for="Outcomes">Have you experienced any of the following?</label><br>
