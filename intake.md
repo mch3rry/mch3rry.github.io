@@ -190,6 +190,5 @@ div.right2 {
 
 div.left2 {
     float: left;
-    width: 28%;
 }
 </style>
