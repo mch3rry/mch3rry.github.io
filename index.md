@@ -15,7 +15,7 @@ use-site-title: true
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her</i>
     <br><img src="https://maisondoula.ca/img/RainbowHeart.svg">
-    <br><img src="https://maisondoula.ca/img/dsa.2020.memberbadge.png" width="200" height="200"> 
+    <br><img src="https://maisondoula.ca/img/dsa.2020.memberbadge.png" width="200" height="100"> 
   </div>
 </div>
 <br><br>
