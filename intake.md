@@ -60,7 +60,7 @@ title: "New Client Intake"
         <input type="text" name="Childcare">
     </div>
     <hr>
-    <h4>Current Pregnancy and Medical History</h4><br>
+    <h4>Current Pregnancy & Medical History</h4><br>
     <div class="center">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
