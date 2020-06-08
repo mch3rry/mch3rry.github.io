@@ -80,11 +80,9 @@ title: "New Client Intake"
         <input type="radio" name="CareProviderType" value="Family Doctor">
         <label for="CareProviderType">Family Doctor</label>
         <input type="radio" name="CareProviderType" value="OB/GYN">
-        <label for="CareProviderType">OB/GYN</label>
-        <br><br>
+        <label for="CareProviderType">OB/GYN</label><br>
     </div>
     <div class="center">
-        <br>
         <label for="CareProviderPhone">Phone number:</label>
         <input type="text" name="CareProviderPhone">
     </div><div class="center">
