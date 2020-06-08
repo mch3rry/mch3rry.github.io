@@ -102,11 +102,11 @@ title: "New Client Intake"
         <label for="Allergies">Do you have any allergies or intolerances?</label>
         <input type="text" name="Allergies">
     </div>
-    <div class="center">
+    <div class="left2">
         <label for="nPregnancies">Number of pregnancies:</label>
         <input type="text" name="nPregnancies">
     </div>
-    <div class="center">
+    <div class="right2">
         <label for="Outcomes">Have you experienced any of the following?</label><br>
         <input type="checkbox" name="Outcomes" value="Miscarriage">
         <label for="Outcomes">Miscarriage</label>
@@ -185,11 +185,11 @@ div.left {
 
 div.right2 {
     float: right;
-    width: 30%;
+    width: 70%;
 }
 
 div.left2 {
     float: left
-    width: 30%
+    width: 28%
 }
 </style>
