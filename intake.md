@@ -111,4 +111,13 @@ label {
     font-family: "Josefin Sans", sans-serif;
     font-weight: lighter;
 }
+
+div.center {
+}
+
+div.right {
+}
+
+div.left {
+}
 </style>
