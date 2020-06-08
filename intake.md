@@ -104,7 +104,7 @@ title: "New Client Intake"
     </div>
     <div class="left2">
         <label for="nPregnancies">Number of pregnancies:</label>
-        <input type="text" name="nPregnancies" size="10">
+        <input type="text" name="nPregnancies">
     </div>
     <div class="right2">
         <label for="Outcomes">Have you experienced any of the following?</label><br>
@@ -190,5 +190,6 @@ div.right2 {
 
 div.left2 {
     float: left;
+    width: 10%;
 }
 </style>
