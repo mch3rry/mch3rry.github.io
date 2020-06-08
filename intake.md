@@ -15,10 +15,6 @@ title: "New Client Intake"
         <input type="text" name="Pronouns">
     </div>
     <div class="center">
-        <label for="Birthday">Pregnant person's date of birth:</label><br>
-        <input type="date" name="Birthday"><br><br>
-    </div>
-    <div class="center">
         <label for="ClientPhone">Phone number:</label>
         <input type="text" name="ClientPhone">
     </div>
@@ -61,9 +57,13 @@ title: "New Client Intake"
     </div>
     <hr>
     <h4>Current Pregnancy & Medical History</h4><br>
-    <div class="center">
+    <div class="left">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
+    </div>
+    <div class="right">
+        <label for="Birthday">Pregnant person's date of birth:</label><br>
+        <input type="date" name="Birthday"><br><br>
     </div>
     <div class="left">
         <label for="CareProviderName">Name of care provider:</label>
