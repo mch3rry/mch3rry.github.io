@@ -3,7 +3,7 @@ layout: page
 title: "New Client Intake"
 ---
 
-<form class="wj-contact" action="https://formspree.io/xlelpddo" method="POST">
+<form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
     <h3>Personal Details</h3><br>
     <label for="ClientName">Name of pregnant person:</label>
@@ -80,7 +80,7 @@ title: "New Client Intake"
 </form>
 
 <style>
-form.wj-contact input[type="text"], form.wj-contact input[type="email"], form.wj-contact textarea[type="text"] {
+form.DoulaForms input[type="text"], form.DoulaForms input[type="email"], form.DoulaForms textarea[type="text"] {
     width: 100%;
     vertical-align: middle;
     margin-top: 0.25em;
@@ -96,7 +96,7 @@ form.wj-contact input[type="text"], form.wj-contact input[type="email"], form.wj
     transition: box-shadow .2s ease;
 }
 
-form.wj-contact input[type="submit"] {
+form.DoulaForms input[type="submit"] {
     outline: none;
     color: white;
     background-color: #B6468C;
