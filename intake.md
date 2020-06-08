@@ -120,8 +120,10 @@ div.center {
 }
 
 div.right {
+    float: right;
 }
 
 div.left {
+    float: left;
 }
 </style>
