@@ -67,7 +67,7 @@ title: "New Client Intake"
         <input type="date" name="Birthday"><br><br>
     </div>
     <div class="center">
-        <label for="CareProviderType">Type of practice:</label><br>
+        <label for="CareProviderType">Type of care provider:</label><br>
         <input type="radio" name="CareProviderType" value="Midwife">
         <label for="CareProviderType">Midwife</label>
         <input type="radio" name="CareProviderType" value="Family Doctor">
