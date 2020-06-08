@@ -185,11 +185,11 @@ div.left {
 
 div.right2 {
     float: right;
-    width: 70%;
+    width: 78%;
 }
 
 div.left2 {
     float: left;
-    width: 10%;
+    width: 20%;
 }
 </style>
