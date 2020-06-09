@@ -14,7 +14,7 @@ use-site-title: true
     <br><img src="https://maisondoula.ca/img/face.png">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her</i>
-    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br><br>
+    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br>
     <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
   </div>
 </div>
