@@ -38,8 +38,9 @@ use-site-title: true
 
 **À la carte Postpartum Care** is available for $20/hour.
 
-<br><br>
+<br>
 <hr>
+
 #### Get in touch to arrange a complimentary consultation! 
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
