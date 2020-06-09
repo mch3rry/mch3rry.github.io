@@ -23,7 +23,7 @@ use-site-title: true
 *I acknowledge that I live and work on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations.* 
 
 
-
+<hr>
 ### Services
 
 **Comprehensive Birth Doula Care** for you and your family includes:
@@ -39,6 +39,7 @@ use-site-title: true
 **À la carte Postpartum Care** is available for $20/hour.
 
 <br><br>
+<hr>
 #### Get in touch to arrange a complimentary consultation! 
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
