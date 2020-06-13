@@ -62,7 +62,8 @@ use-site-title: true
         <input type="date" name="EDD"><br><br>
     </div>
     <div class="center">
-        <textarea type="text" name="content" rows="5">Tell me about you and your family!</textarea>
+        <label for="content">Tell me about you and your family:</label>
+        <textarea type="text" name="content" rows="5"></textarea>
     </div>
     <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
