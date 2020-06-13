@@ -43,6 +43,7 @@ use-site-title: true
 
 #### Get in touch to arrange a complimentary consultation! 
 
+<br>
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
     <div class="left">
         <label for="ClientName">Name:</label>
