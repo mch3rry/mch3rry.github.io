@@ -44,12 +44,25 @@ use-site-title: true
 #### Get in touch to arrange a complimentary consultation! 
 
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
-    <input type="text" name="Name" placeholder="Name">
-    <input type="text" name="Preferred pronouns" placeholder="Preferred pronouns">
-    <input type="email" name="_replyto" placeholder="Email">
-    <input type="text" name="EDD" placeholder="Estimated due date">
-    <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
-    <input type="hidden" name="redirect_to" value="<https://kinshipdoula.ca/thanks/>">
+    <div class="left">
+        <label for="ClientName">Name:</label>
+        <input type="text" name="ClientName">
+    </div>
+    <div class="right">
+        <label for="Pronouns">Preferred pronouns:</label>
+        <input type="text" name="Pronouns">
+    </div>
+    <div class="center">
+        <label for="Email">Email:</label>
+        <input type="email" name="_replyto">
+    </div>
+    <div class="center">
+        <label for="EDD">Estimated due date:</label><br>
+        <input type="date" name="EDD"><br><br>
+    </div>
+    <div class="center">
+        <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
+    </div>
     <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
@@ -81,6 +94,20 @@ form.wj-contact input[type="submit"] {
     margin: 0.25em 0 0 0;
     border: 1px solid transparent;
     height: auto;
+}
+
+div.center {
+    clear: both;
+}
+
+div.right {
+    float: right;
+    width: 38%;
+}
+
+div.left {
+    float: left;
+    width: 60%;
 }
 </style>
 
