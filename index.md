@@ -61,7 +61,7 @@ use-site-title: true
         <input type="date" name="EDD"><br><br>
     </div>
     <div class="center">
-        <textarea type="text" name="content" rows="6" placeholder="Tell me about you and your family!"></textarea>
+        <textarea type="text" name="content" rows="5">Tell me about you and your family!</textarea>
     </div>
     <input type="hidden" name="_subject" value="New Doula Inquiry">
     <input type="text" name="_gotcha" style="display:none">
@@ -108,6 +108,11 @@ div.right {
 div.left {
     float: left;
     width: 60%;
+}
+
+label {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: lighter;
 }
 </style>
 
