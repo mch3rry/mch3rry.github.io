@@ -131,8 +131,6 @@ title: "New Client Intake"
         <textarea type="text" name="PPPlan" rows="6"></textarea>
     </div>
     <input type="hidden" name="_subject" value="New Client Intake">
-    <input type="text" name="_gotcha" style="display:none">
-    <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
 </form>
 
