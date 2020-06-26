@@ -32,9 +32,11 @@ use-site-title: true
 * Two prenatal visits
   * We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.
 * Continuous labour support
+  * Whether you’re birthing at the hospital, or in your home, I’ll join you when your birthing time comes, and will be by your side to encourage and assist you throughout your labour. I’ll remain with you for a few hours after the birth, until you and your new family are settled in.
 * Two postpartum visits
+  * Visits occur in the first ten days following the birth. They are an opportunity to debrief the birth, revel in your new baby, receive support in newborn care and feeding, or take the time for rest and recuperation.
 
-**Fee:** $800
+**Fee:** ~~$800~~ *$400 for the first five families!*
 
 **À la carte Postpartum Care** is available for $20/hour.
 
