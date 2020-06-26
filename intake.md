@@ -132,6 +132,7 @@ title: "New Client Intake"
     </div>
     <input type="hidden" name="_subject" value="New Client Intake">
     <input type="text" name="_gotcha" style="display:none">
+    <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
 </form>
 
