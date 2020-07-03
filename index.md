@@ -8,6 +8,8 @@ use-site-title: true
 
 <div class="row">
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <h3>I am a birth and postpartum doula serving Vancouver, BC, and surrounding areas.</h3><br>
+    <p>Doulas support birthing people throughout their pregrancy, labour and birth, as well as postpartum.</p>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <h3>Danielle McEachern</h3>
