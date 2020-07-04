@@ -46,7 +46,9 @@ use-site-title: true
 <br>
 <hr>
 
-### Get in touch to arrange a complimentary consultation! 
+### Let's Connect
+
+Get in touch to arrange a complimentary consultation
 
 <br>
 <form class="wj-contact" action="https://formspree.io/mnqdvndq" method="POST">
