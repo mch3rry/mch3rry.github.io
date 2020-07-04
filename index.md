@@ -97,7 +97,7 @@ form.wj-contact input[type="text"], form.wj-contact input[type="email"], form.wj
 form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
-    background-color: #DCACBC;
+    background-color: #5A6187;
     border-radius: 20px;
     padding: 0.75em;
     margin: 0.25em 0 0 0;
