@@ -33,16 +33,16 @@ title-img: "/img/MDLogoBig.svg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#5A6187"
-navbar-text-col: "#EBEBEB"
-navbar-children-col: "#5A6187"
-page-col: "#EBEBEB"
-page-text-col: "#5A6187"
-link-col: "#B6468C"
-hover-col: "#5A6187"
-footer-col: "#EBEBEB"
-footer-text-col: "#5A6187"
-footer-link-col: "#5A6187"
+navbar-col: "#F6F3F5"
+navbar-text-col: "#063E8C"
+navbar-children-col: "#063E8C"
+page-col: "#F6F3F5"
+page-text-col: "#063E8C"
+link-col: "#063E8C"
+hover-col: "#CA156C"
+footer-col: "#F6F3F5"
+footer-text-col: "#063E8C"
+footer-link-col: "#063E8C"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
