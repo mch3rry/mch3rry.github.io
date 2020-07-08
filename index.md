@@ -7,6 +7,14 @@ use-site-title: true
   <h2>Evidence-based doula care for families in & around Vancouver, BC</h2><br><br>
 </div>
 <div class="row">
+  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <img src="https://maisondoula.ca/img/face.png">
+    <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
+    <br><br>Birth & Postpartum Doula
+    <br><i>She/Her/Hers</i>
+    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br>
+    <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
+  </div>
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <p>Doulas support birthing people throughout their pregrancy, labour and birth, as well as postpartum. (( more about doula support here )) You can read more about the evidence on doula care <a href="https://evidencebasedbirth.com/the-evidence-for-doulas/"><i>here</i></a>.</p><br>
     <p>I believe in intuition - that you, your body, and your baby intuitively know how to give birth.</p>
@@ -15,14 +23,6 @@ use-site-title: true
     <p>Before I decided to pursue birth work, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. Continuing education is a priority for me in my doula practice; I believe it is important to understand the history that shapes modern birth culture, and to always be informed on the current best practices in perinatal care.</p>
     <p>For my doula training I completed Pacific Rim's 270-hour <a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Holistic Doula Program</a> in December 2019.</p>
     <p>I live and work on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations.</p>
-  </div>
-  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <img src="https://maisondoula.ca/img/face.png">
-    <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
-    <br><br>Birth & Postpartum Doula
-    <br><i>She/Her/Hers</i>
-    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br>
-    <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
   </div>
 </div>
 
