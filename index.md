@@ -41,7 +41,7 @@ use-site-title: true
 * Two postpartum visits
   * Visits occur in the first ten days following the birth. They are an opportunity to debrief the birth, revel in your new baby, receive support in newborn care and feeding, or take the time for rest and recuperation.
 
-**Fee:** ~~$800~~ *$400 for the first five families! *
+**Fee:** ~~$800~~ *$400 for the first five families!*
 
 **À la carte Postpartum Care** is available for $20/hour.
 
