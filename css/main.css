@@ -10,7 +10,7 @@ body {
   font-family: 'Josefin Sans', 'Open Sans', sans-serif;
   font-size: 16px;
   font-weight: lighter;
-  color: #03193A;
+  color: #03234E;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
