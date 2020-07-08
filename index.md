@@ -3,8 +3,7 @@ layout: page
 title: ""
 use-site-title: true
 ---
-
-<h2>Evidence-based & Family-centred Doula Care</h2>
+<h2>Evidence-based & Family-centred Doula Care</h2><br><br>
 <div class="row">
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <h3>I am a birth and postpartum doula serving Vancouver, BC, and surrounding areas.</h3><br>
