@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: ""
 use-site-title: true
 ---
@@ -15,8 +15,8 @@ use-site-title: true
     <p>For my doula training I completed Pacific Rim's 270-hour <a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Holistic Doula Program</a>.</p>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <img src="https://maisondoula.ca/img/MDLogoName.svg" width="250">
-    <br><br><img src="https://maisondoula.ca/img/face.png">
+    <img src="https://maisondoula.ca/img/face.png">
+    <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="200">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
     <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br>
