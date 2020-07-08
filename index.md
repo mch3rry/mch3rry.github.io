@@ -18,7 +18,7 @@ use-site-title: true
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <h3>Danielle McEachern</h3>
-    <br><img src="https://maisondoula.ca/img/MDLogo.svg" height="100">
+    <br><img src="https://maisondoula.ca/img/MDLogo.svg" height="50">
     <br><img src="https://maisondoula.ca/img/face.png">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
