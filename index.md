@@ -4,7 +4,6 @@ title: ""
 use-site-title: true
 ---
 <div class="text-center">
-  <img src="https://maisondoula.ca/img/MDLogoBig.svg" width="400"><br><br><br>
   <h3>Evidence-based doula care for families in & around Vancouver, BC</h3><br><br>
 </div>
 <div class="row">
