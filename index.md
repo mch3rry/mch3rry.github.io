@@ -12,8 +12,10 @@ use-site-title: true
     <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
-    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg"><br>
-    <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
+    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg">
+    <br><br><h4>(778) 879 - 0269</h4>
+    <br><h4>Danielle@MaisonDoula.ca</h4>
+    <br><br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
   </div>
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <p>Doulas support birthing people throughout their pregrancy, labour and birth, as well as postpartum. (( more about doula support here )) You can read more about the evidence on doula care <a href="https://evidencebasedbirth.com/the-evidence-for-doulas/"><i>here</i></a>.</p><br>
