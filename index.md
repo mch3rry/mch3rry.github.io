@@ -3,10 +3,11 @@ layout: page
 title: ""
 use-site-title: true
 ---
-<h2>Evidence-based & Family-centred Doula Care</h2><br><br>
+<img src="https://maisondoula.ca/img/MDLogoBig.svg"><br>
+<h3>Evidence-based & Family-centred Doula Care</h2><br><br>
 <div class="row">
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <h3>I am a birth and postpartum doula serving Vancouver, BC, and surrounding areas.</h3><br>
+    <h4>I am a birth and postpartum doula serving Vancouver, BC, and surrounding areas.</h4><br>
     <p>Doulas support birthing people throughout their pregrancy, labour and birth, as well as postpartum. (( more about doula support here )) You can read more about the evidence on doula care <a href="https://evidencebasedbirth.com/the-evidence-for-doulas/"><i>here</i></a>.</p><br>
     <p>I believe in intuition - that you, your body, and your baby intuitively know how to give birth.</p>
     <p>(( more beliefs ))</p>
