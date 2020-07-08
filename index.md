@@ -1,8 +1,6 @@
 ---
 layout: page
-title: "Evidence-based & Family-centred Doula Care"
-bigimg:
-  - "img/danijel-durkovic-QOSb_iH9Uas-unsplash.jpg": Photo by Danijel Durkovic on Unsplash
+title: ""
 use-site-title: true
 ---
 
