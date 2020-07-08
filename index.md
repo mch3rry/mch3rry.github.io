@@ -12,7 +12,7 @@ use-site-title: true
     <p>I believe in intuition - that you, your body, and your baby intuitively know how to give birth.</p>
     <p>(( more beliefs ))</p>
     <p>(( even more beliefs ))</p><br>
-    <p>Before I decided to pursue birth work, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. Continuing education is a priority for me in my doula practice. I believe it is important to understand the history that shapes modern birth culture, and to always be informed on the current best practices in perinatal care.</p>
+    <p>Before I decided to pursue birth work, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. Continuing education is a priority for me in my doula practice; I believe it is important to understand the history that shapes modern birth culture, and to always be informed on the current best practices in perinatal care.</p>
     <p>For my doula training I completed Pacific Rim's 270-hour <a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Holistic Doula Program</a>.</p>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
