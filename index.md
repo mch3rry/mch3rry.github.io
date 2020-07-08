@@ -4,7 +4,7 @@ title: ""
 use-site-title: true
 ---
 <img src="https://maisondoula.ca/img/MDLogoBig.svg" width="500"><br>
-<h3>Evidence-based & Family-centred Doula Care</h2><br><br>
+<h3>Evidence-based & Family-centred Doula Care</h3><br><br>
 <div class="row">
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <h4>I am a birth and postpartum doula serving Vancouver, BC, and surrounding areas.</h4><br>
