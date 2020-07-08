@@ -46,7 +46,7 @@ use-site-title: true
 <br>
 <hr>
 
-### Let's Connect
+### Let's Connect:
 #### Get in touch to arrange a complimentary consultation
 
 <br>
