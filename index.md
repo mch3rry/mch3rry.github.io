@@ -48,8 +48,10 @@ use-site-title: true
 
 ### Let's Connect:
 #### Get in touch to arrange a complimentary consultation
+ 
+ 
+(778) 879 - 0269 
 
-(778) 879 - 0269
 Danielle@MaisonDoula.ca
 
 <br>
