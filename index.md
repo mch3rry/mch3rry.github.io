@@ -51,7 +51,6 @@ use-site-title: true
  
  
 (778) 879 - 0269 
-
 Danielle@MaisonDoula.ca
 
 <br>
