@@ -18,7 +18,7 @@ use-site-title: true
     <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
   </div>
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-    <p>Before I decided to pursue birth work, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. Continuing education is a priority in my doula practice; I believe it is important to understand the history that shapes modern birth culture, and to always be informed on the current best practices in perinatal care.</p>
+    <p>Before I decided to pursue birth work, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. Continuing education is a priority in my doula practice; it is to me important to understand the history that shapes modern birth culture, and to always be informed on the current best practices in perinatal care.</p>
     <p>For my doula training I completed Pacific Rim's 270-hour <a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Holistic Doula Program</a> in December 2019. I’ve supported new families through Vancouver Coastal Health’s CUDDLE program, and have volunteered as a <a href="https://www.bigsisters.bc.ca/">Big Sister</a>. I am also trained in Standard First Aid and CPR-C/AED (St John Ambulance, 2020).
 </p>
     <p>I live and work on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations. </p>
