@@ -10,7 +10,7 @@ body {
   font-family: 'Josefin Sans', 'Open Sans', sans-serif;
   font-size: 17px;
   font-weight: lighter;
-  color: #03234E;
+  color: #0E2F3A;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -33,7 +33,7 @@ h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', 'Times', serif;
   font-weight: 700;
   font-style: italic;
-  color: #063E8C;
+  color: #C12282;
 }
 a {
   color: {{ site.link-col }};
