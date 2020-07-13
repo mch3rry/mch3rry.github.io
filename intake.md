@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "New Client Intake"
 ---
-
+<h2>New Client Intake</h2>
+<p>Thank you for taking the time to complete this intake form.</p>
 <form class="DoulaForms" action="https://formspree.io/xlelpddo" method="POST">
     <hr>
-    <h4>Contact Information</h4><br>
+    <b>Contact Information</b><br>
     <div class="left">
         <label for="ClientName">Name of pregnant person:</label>
         <input type="text" name="ClientName">
@@ -56,7 +56,7 @@ title: "New Client Intake"
         <input type="text" name="Childcare">
     </div>
     <hr>
-    <h4>Current Pregnancy & Medical History</h4><br>
+    <b>Current Pregnancy & Medical History</b><br>
     <div class="center">
         <label for="EDD">Estimated due date:</label><br>
         <input type="date" name="EDD"><br><br>
@@ -154,7 +154,7 @@ form.DoulaForms input[type="text"], form.DoulaForms input[type="email"], form.Do
 form.DoulaForms input[type="submit"] {
     outline: none;
     color: white;
-    background-color: #CA156C;
+    background-color: #5EA788;
     border-radius: 20px;
     padding: 0.75em;
     margin: 0.25em 0 0 0;
