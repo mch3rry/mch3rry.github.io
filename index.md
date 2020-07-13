@@ -3,8 +3,8 @@ layout: page
 use-site-title: true
 ---
 <div class="text-center">
-  <h2>Evidence-based doula care for families in & around Vancouver, BC</h2><br><br>
-  <p><b>Congratulations on your growing family! New parenthood is a transformative time, and you deserve to be supported as you navigate your pregnancy, birth, and beyond.</b></p>
+  <h2>Evidence-based doula care for families in & around Vancouver, BC</h2>
+  <p><b>Congratulations on your growing family! New parenthood is a transformative time, and you deserve to be supported as you navigate your pregnancy, birth, and beyond.</b></p><br>
 </div>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
