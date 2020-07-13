@@ -8,8 +8,7 @@ use-site-title: true
 </div>
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <img src="https://maisondoula.ca/img/FaceSquareBlack.jpg" width="200">
-    <br><img src="https://maisondoula.ca/img/FaceSquareWhite.jpg" width="200">
+    <img src="https://maisondoula.ca/img/FaceSquareWhite.jpg" width="200">
     <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
