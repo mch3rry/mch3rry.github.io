@@ -1,6 +1,5 @@
 ---
 layout: page
-title: ""
 use-site-title: true
 ---
 <div class="text-center">
