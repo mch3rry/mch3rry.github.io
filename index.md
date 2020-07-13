@@ -3,7 +3,7 @@ layout: page
 use-site-title: true
 ---
 <div class="text-center">
-  <h2>Evidence-based doula care for families in & around Vancouver, BC</h2>
+  <h2>Evidence-based doula care for families in & around Vancouver, BC</h2><br>
   <p><b>Congratulations on your growing family! New parenthood is a transformative time, and you deserve to be supported as you navigate your pregnancy, birth, and beyond.</b></p><br>
 </div>
 <div class="row">
