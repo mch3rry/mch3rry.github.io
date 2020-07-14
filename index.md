@@ -12,7 +12,6 @@ use-site-title: true
     <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
-    <br><img src="https://maisondoula.ca/img/RainbowHeart.svg">
     <br><br><h4>(778) 879 - 0269</h4>
     <h4>Danielle@MaisonDoula.ca</h4>
     <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
@@ -61,7 +60,7 @@ Danielle@MaisonDoula.ca
         <input type="text" name="ClientName">
     </div>
     <div class="right">
-        <label for="Pronouns">Preferred pronouns:</label>
+        <label for="Pronouns">Pronouns:</label>
         <input type="text" name="Pronouns">
     </div>
     <div class="center">
