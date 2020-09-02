@@ -15,7 +15,7 @@ use-site-title: true
     <br><br><h4>(778) 879 - 0269</h4>
     <h4>Danielle@MaisonDoula.ca</h4>
     <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
-    <br><a href="https://evidencebasedbirth.com/"><img alt="Evidence Based Birth Professional Membership" src="https://maisondoula.ca/img/EBBPro.png" width="200" height="200"></a>
+    <br><a href="https://evidencebasedbirth.com/"><img alt="Evidence Based Birth Professional Membership" src="https://maisondoula.ca/img/EBBPro.png" width="200" height="150"></a>
   </div>
   <div class="col-md-8 col-md-offset-0 col-sm-8 col-sm-offset-0 col-xs-12 col-xs-offset-0">
     <p>I am passionate about providing doula care that honours you, your family, and your birth. Everyone deserves to feel safe, supported, and empowered during pregnancy, childbirth, and onwards into parenthood.</p> 
