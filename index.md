@@ -42,7 +42,7 @@ use-site-title: true
 
 **Fee:** ~~$800~~ *$400 for the first five families!*
 
-**À la carte Postpartum Care** is available for $20/hour.
+**À la carte Postpartum Care** is available for $25/hour (minimum 3 hours).
 
 <br>
 <hr>
