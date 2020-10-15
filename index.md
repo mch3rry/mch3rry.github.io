@@ -12,7 +12,6 @@ use-site-title: true
     <br><br><img src="https://maisondoula.ca/img/MDLogoName.svg" width="175">
     <br><br>Birth & Postpartum Doula
     <br><i>She/Her/Hers</i>
-    <br><br><h4>(778) 879 - 0269</h4>
     <h4>Danielle@MaisonDoula.ca</h4>
     <br><a href="https://www.bcdoulas.org/"><img alt="Doula Services Association of BC Member" src="https://maisondoula.ca/img/DSABadge.png" width="150" height="150"></a>
     <br><br><a href="https://evidencebasedbirth.com/"><img alt="Evidence Based Birth Professional Membership" src="https://maisondoula.ca/img/EBBPro.png" width="200" height="160"></a>
@@ -56,7 +55,6 @@ I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Col
 #### Get in touch to arrange a complimentary consultation
  
  
-(778) 879 - 0269  
 Danielle@MaisonDoula.ca
 
 <br>
