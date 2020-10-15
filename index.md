@@ -30,6 +30,8 @@ use-site-title: true
 
 ### Services
 
+I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Colpitts</a>.
+
 **Comprehensive Birth Doula Care** for you and your family includes:
 * Unlimited phone/text/email support throughout your pregnancy, and up to 6 weeks postpartum
 * On-call 24/7 for your birth, starting at 37 weeks 
@@ -39,10 +41,13 @@ use-site-title: true
   * Whether you’re birthing at the hospital, or in your home, I’ll join you when your birthing time comes, and will be by your side to encourage and assist you throughout your labour. I’ll remain with you for a few hours after the birth, until you and your new family are settled in.
 * Two postpartum visits
   * Visits occur in the first ten days following the birth. They are an opportunity to debrief the birth, revel in your new baby, receive support in newborn care and feeding, or take the time for rest and recuperation.
+* Access to an extensive lending library
+* Use of an Elle TENS machine
+* A CPR and choking lesson through <a href="https://safebeginnings.ca/">Safe Beginnings First Aid</a>  alongside other mentored doula clients.
 
-**Fee:** ~~$800~~ *$400 for the first five families!*
+**Fee:** $700+ GST
 
-**À la carte Postpartum Care** is available for $25/hour (minimum 3 hours).
+**À la carte Postpartum Care** is available for $25/hour (minimum 4 hours).
 
 <br>
 <hr>
