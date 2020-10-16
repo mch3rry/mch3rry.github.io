@@ -11,7 +11,7 @@ layout: page
         <input type="text" name="ClientName">
     </div>
     <div class="right">
-        <label for="Pronouns">Preferred pronouns:</label>
+        <label for="Pronouns">Pronouns:</label>
         <input type="text" name="Pronouns">
     </div>
     <div class="center">
@@ -40,7 +40,7 @@ layout: page
         <input type="text" name="PartnerName">
     </div>
     <div class="right">
-        <label for="PartnerPronouns">Preferred pronouns:</label>
+        <label for="PartnerPronouns">Pronouns:</label>
         <input type="text" name="PartnerPronouns">
     </div>
     <div class="center">
