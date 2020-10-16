@@ -44,7 +44,7 @@ I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Col
 * Use of an Elle TENS machine
 * A CPR and choking lesson through <a href="https://safebeginnings.ca/">Safe Beginnings First Aid</a>  alongside other mentored doula clients.
 
-**Fee:** $700+ GST
+**Fee:** $700 + GST
 
 **À la carte Postpartum Care** is available for $25/hour during the day (minimum 4 hours), and $28/hour overnight (minimum 8 hours).
 
