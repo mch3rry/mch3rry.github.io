@@ -51,10 +51,6 @@ layout: page
         <label for="Children">Names and ages of any children:</label>
         <input type="text" name="Children">
     </div>
-    <div class="center">
-        <label for="Childcare">If applicable: What is your care plan for your children during labour?</label>
-        <input type="text" name="Childcare">
-    </div>
     <hr>
     <b>Current Pregnancy & Medical History</b><br>
     <div class="center">
