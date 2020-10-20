@@ -52,10 +52,10 @@ I also offer **À la carte Postpartum Care**:
 <div class="row">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <h4>$25/hr daytime (min. 4 hours)</h4>
-    <h5>$28/hr overnight (min. 8 hours)</h4>
+    <h5>$28/hr overnight (min. 8 hours)</h5>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <h5>12 hour package for $275</h4>
+    <h5>12 hour package for $275</h5>
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <h4>24 hour package for $500</h4>
