@@ -46,7 +46,21 @@ I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Col
 
 **Fee:** $700 + GST
 
-**À la carte Postpartum Care** is available for $25/hour during the day (minimum 4 hours), and $28/hour overnight (minimum 8 hours).
+
+I also offer **À la carte Postpartum Care**:
+
+<div class="row">
+  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <h4>$25/hr daytime (min. 4 hours)</h4>
+    <h4>$28/hr overnight (min. 8 hours)</h4>
+  </div>
+  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <h4>12 hour package for $275</h4>
+  </div>
+  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <h4>24 hour package for $500</h4>
+  </div>
+</div<
 
 <br>
 <hr>
