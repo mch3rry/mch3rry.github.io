@@ -47,7 +47,6 @@ I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Col
 **Fee:** $700 + GST
 
 <br>
-<br>
 
 I also offer **à la carte Postpartum Doula Care**:
 
