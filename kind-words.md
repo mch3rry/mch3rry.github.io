@@ -3,6 +3,7 @@ layout: page
 title: ""
 ---
 ## What my clients are saying...
+<hr>
 
 #### Laura & Donny
 
