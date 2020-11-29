@@ -2,11 +2,8 @@
 layout: page
 title: ""
 ---
-
-### What my clients are saying...
-
+## What my clients are saying...
 <hr>
-<br>
 
 #### Laura & Donny
 
