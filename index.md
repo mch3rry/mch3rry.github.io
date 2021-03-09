@@ -43,7 +43,7 @@ use-site-title: true
 
 **Fee:** $1000
 
-*I am committed to accessible doula care for everyone. I am happy to provide flexible payment plans, and sliding scale fees for single parents and those with low income - please inquire! I also volunteer as a doula through the DSA's <a href="https://www.bcdoulas.org/referral.html">Referral Program</a>*
+*I am committed to accessible doula care for everyone. I am happy to provide flexible payment plans, and sliding scale fees for single parents and those with low income - please inquire! I also volunteer as a doula through the DSA's <a href="https://www.bcdoulas.org/referral.html">Referral Program</a>.*
 
 <br>
 
