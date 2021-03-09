@@ -21,7 +21,7 @@ use-site-title: true
     <p>I believe in the physiology of birth - that you, your body, and your baby instinctively know how to birth - and that you are the expert on your care. My goal is to help you feel educated about childbirth and all of your options, and confident and supported in your choices. I aim to create a safe and comfortable space for you to thrive in your birth and journey into new parenthood.</p>
     <p>Before I trained as a doula, I studied neurobiology for ten years. From my time as a scientist I bring curiosity, critical thinking, and a love of research rabbit holes. I am fascinated by all aspects of birth, from the biological mysteries to the diversity of global birth practices. I strive to understand the history that shapes modern birth culture, and to be informed on the best evidence-based practices in perinatal care.</p>
     <p>For my doula training I completed Pacific Rim's 270-hour <a href="https://www.pacificrimcollege.com/faculties-programs/program/holistic-doula-certificate/">Holistic Doula Program</a> in December 2019, and Motherwit’s postpartum doula training in September 2020. I’ve volunteered as a postpartum doula through Vancouver Coastal Health’s CUDDLE program, and have volunteered as a <a href="https://www.bigsisters.bc.ca/">Big Sister</a>. I am also trained in Standard First Aid and CPR-C/AED (St John Ambulance, 2020).</p>
-    <p>I live on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations. When I'm not working you can find me cooking, baking, knitting, sewing, and spending time with my partner, cat, and our many plants.</p>
+    <p>I live on the traditional, ancestral, and unceded territories of the Coast Salish peoples – the Squamish, Tsleil-Waututh and Musqueam Nations. When I'm not working you can find me cooking, crafting, and spending time with my partner, cat, and our many plants.</p>
   </div>
 </div>
 
@@ -29,31 +29,29 @@ use-site-title: true
 
 ### Services
 
-I am currently mentoring with <a href="https://jillcolpitts.com/doula/">Jill Colpitts</a>.
-
 **Comprehensive Birth Doula Care** for you and your family includes:
-* Unlimited phone/text/email support
-* On call 24/7 (or able to supply reliable back-up, often Jill herself) from the point of hiring until the birth of your baby
+* Unlimited phone/text/email support throughout your pregnancy, and up to six weeks postpartum
+* On call 24/7 for your birth from 37 weeks
 * Two prenatal visits
   * We’ll review physiologic labour and childbirth, discuss comfort measures and your birth preferences, and put together a postpartum plan. The goal is to ensure you are educated about all of your options, ease any concerns you or your partner may have, and make you feel confident and empowered about your ability to birth.
 * Continuous labour support
   * Whether you’re birthing at the hospital, or in your home, I’ll join you when your birthing time comes, and will be by your side to encourage and assist you throughout your labour. I’ll remain with you for a few hours after the birth, until you and your new family are settled in.
 * 1-2 postpartum visits
   * Visits occur in the first two weeks following the birth. They are an opportunity to debrief the birth, revel in your new baby, receive support in newborn care and feeding, or take the time for rest and recuperation.
-* Access to an extensive lending library
+* Access to my lending library
 * Use of an Elle TENS machine
-* A CPR and choking lesson through <a href="https://safebeginnings.ca/">Safe Beginnings First Aid</a>  alongside other mentored doula clients.
 
-**Fee:** $700 + GST
+**Fee:** $1000
+
+*I am committed to accessible doula care for everyone. I am happy to provide flexible payment plans, and sliding scale fees for single parents and those with low income - please inquire! I also volunteer as a doula through the DSA's <a href="https://www.bcdoulas.org/referral.html">Referral Program</a>*
 
 <br>
 
 I also offer **à la carte Postpartum Doula Care**:
 
-* Daytime: $25/hour (minimum 4 hours, 8AM - 8PM)
-* Overnight: $28/hour (minimum 8 hours, 8PM - 8AM)
-* 20 Hour Daytime Package: $470 ($23.5/hour)
-* 40 Hour Daytime Package: $880 ($22/hour)
+* Daytime: $30/hour (minimum 4 hours, 8AM - 8PM)
+* Overnight: $35/hour (minimum 8 hours, 8PM - 8AM)
+* 20 Hour Daytime Package: $550 ($27.5/hour)
   
 <br>
 <hr>
