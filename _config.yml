@@ -197,7 +197,7 @@ exclude:
 # prose.io config
 prose:
   rooturl: '_posts'
-  siteurl: 'https://maisondoula.ca'
+  siteurl: 'https://mch3rry.github.io'
   media: 'img'
   ignore:
     - 404.html
