@@ -58,32 +58,12 @@ layout: page
         <input type="date" name="EDD"><br><br>
     </div>
     <div class="center">
-        <label for="Birthday">Pregnant person's date of birth:</label><br>
-        <input type="date" name="Birthday"><br><br>
-    </div>
-    <div class="center">
-        <label for="CareProviderType">Type of care provider:</label><br>
-        <input type="radio" name="CareProviderType" value="Midwife">
-        <label for="CareProviderType">Midwife</label>
-        <input type="radio" name="CareProviderType" value="Family Doctor">
-        <label for="CareProviderType">Family Doctor</label>
-        <input type="radio" name="CareProviderType" value="OB/GYN">
-        <label for="CareProviderType">OB/GYN</label><br><br>
-    </div>
-    <div class="left">
-        <label for="CareProviderName">Name of care provider:</label>
+        <label for="CareProviderName">Name of care provider/practice:</label>
         <input type="text" name="CareProviderName">
     </div>
-    <div class="right">
-        <label for="PracticeName">Name of practice:</label>
-        <input type="text" name="PracticeName">
-    </div>
     <div class="center">
-        <label for="CareProviderPhone">Phone number:</label>
-        <input type="text" name="CareProviderPhone">
-    </div><div class="center">
-        <label for="BirthPlace">Place of birth:</label>
-        <input type="text" name="BirthPlace" placeholder="Home, or specify hospital">
+        <label for="BirthPlace">Planned place of birth:</label>
+        <input type="text" name="BirthPlace">
     </div>
     <div class="center">
         <label for="MedConcerns">Do you have any risk factors or medical concerns for this pregnancy?</label>
@@ -96,23 +76,6 @@ layout: page
     <div class="center">
         <label for="Allergies">Do you have any allergies or intolerances?</label>
         <input type="text" name="Allergies">
-    </div>
-    <div class="left2">
-        <label for="nPregnancies">Number of pregnancies:</label>
-        <input type="text" name="nPregnancies">
-    </div>
-    <div class="right2">
-        <label for="Outcomes">Have you experienced any of the following?</label><br>
-        <input type="checkbox" name="Outcomes" value="Miscarriage">
-        <label for="Outcomes">Miscarriage</label>
-        <input type="checkbox" name="Outcomes" value="Abortion">
-        <label for="Outcomes">Abortion</label>
-        <input type="checkbox" name="Outcomes" value="Stillbirth">
-        <label for="Outcomes">Stillbirth</label>
-        <input type="checkbox" name="Outcomes" value="C-section">
-        <label for="Outcomes">C-section</label>
-        <input type="checkbox" name="Outcomes" value="VBAC">
-        <label for="Outcomes">VBAC or HBAC</label><br><br>
     </div>
     <div class="center">
         <label for="BirthExperiences">Describe any previous birth experiences.</label>
