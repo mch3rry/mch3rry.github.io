@@ -40,6 +40,7 @@ use-site-title: true
   * Visits occur in the first two weeks following the birth. They are an opportunity to debrief the birth, revel in your new baby, receive support in newborn care and feeding, or take the time for rest and recuperation.
 * Access to my lending library
 * Use of an Elle TENS machine
+* Complete birth pool setup for home births
 
 **Fee:** $1000
 
